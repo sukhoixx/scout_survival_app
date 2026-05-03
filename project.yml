@@ -1,0 +1,33 @@
+name: scout_survival_app
+options:
+  bundleIdPrefix: com.scouts
+  deploymentTarget:
+    iOS: "17.0"
+  xcodeVersion: "15.0"
+
+settings:
+  PRODUCT_BUNDLE_IDENTIFIER: com.scouts.ScoutSurvivalApp
+  SWIFT_VERSION: "5.9"
+  IPHONEOS_DEPLOYMENT_TARGET: "17.0"
+
+targets:
+  scout_survival_app:
+    type: application
+    platform: iOS
+    deploymentTarget: "17.0"
+    sources:
+      - path: scout_survival_app
+        excludes:
+          - "**/*.md"
+    resources:
+      - scout_survival_app/Data/survival_topics.json
+      - scout_survival_app/Data/injuries.json
+    info:
+      path: scout_survival_app/Resources/Info.plist
+      properties:
+        CFBundleDisplayName: Scout Survival
+        UILaunchScreen: {}
+    settings:
+      PRODUCT_BUNDLE_IDENTIFIER: com.scouts.ScoutSurvivalApp
+      SWIFT_VERSION: "5.9"
+      INFOPLIST_FILE: scout_survival_app/Resources/Info.plist

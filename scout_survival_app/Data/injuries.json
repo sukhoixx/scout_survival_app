@@ -1,0 +1,1646 @@
+[
+  {
+    "id": "hypothermia",
+    "name": "Hypothermia",
+    "category": "Environmental",
+    "severity": "Life-Threatening",
+    "symptoms": [
+      "shivering",
+      "confusion",
+      "slurred speech",
+      "slow shallow breathing",
+      "weak pulse",
+      "loss of coordination",
+      "drowsiness",
+      "loss of consciousness",
+      "cold pale skin",
+      "stumbling"
+    ],
+    "immediateActions": [
+      "Move the person to a warm, dry shelter immediately",
+      "Remove any wet clothing",
+      "Cover with blankets, sleeping bags, or dry leaves",
+      "If conscious, give warm (not hot) sweet drinks",
+      "Never rub extremities — this moves cold blood to the core",
+      "Apply warm compresses to neck, armpits, and groin only"
+    ],
+    "treatments": [
+      {
+        "id": "hypo-t1",
+        "step": 1,
+        "description": "Gently move victim out of cold and wind. Cut off wet clothes rather than pulling over head if unconscious.",
+        "materials": ["scissors", "blanket"],
+        "notes": "Handle with extreme care — rough movement can trigger cardiac arrest in severe hypothermia"
+      },
+      {
+        "id": "hypo-t2",
+        "step": 2,
+        "description": "Insulate from the ground first. Place on sleeping pad or layers of dry material before covering from above.",
+        "materials": ["sleeping pad", "sleeping bag", "dry clothing"],
+        "notes": null
+      },
+      {
+        "id": "hypo-t3",
+        "step": 3,
+        "description": "Apply chemical heat packs or warm water bottles (wrapped in cloth to prevent burns) to neck, armpits, and groin.",
+        "materials": ["heat packs", "warm water bottle", "cloth"],
+        "notes": "Do not apply heat packs directly to skin — always use a cloth barrier"
+      },
+      {
+        "id": "hypo-t4",
+        "step": 4,
+        "description": "If conscious and able to swallow, give warm sweet liquids such as sugar water or warm broth. No alcohol.",
+        "materials": ["warm water", "sugar", "broth"],
+        "notes": "Alcohol dilates blood vessels and increases heat loss — never give alcohol for hypothermia"
+      },
+      {
+        "id": "hypo-t5",
+        "step": 5,
+        "description": "Monitor breathing and pulse continuously. If breathing stops, begin CPR.",
+        "materials": [],
+        "notes": "Even a pulse that seems absent may be very slow and weak — check for at least 60 seconds before beginning CPR"
+      }
+    ],
+    "warningSigns": [
+      "Victim stops shivering (paradoxical undressing may follow — a sign of severe hypothermia)",
+      "Loss of consciousness",
+      "Cardiac arrhythmia or arrest",
+      "Breathing becomes imperceptible"
+    ],
+    "whenToEvacuate": "Evacuate immediately for any moderate to severe hypothermia. Even mild hypothermia in the wilderness warrants evacuation if rewarming is not possible in the field.",
+    "preventionTips": [
+      "Dress in moisture-wicking layers — never cotton in cold/wet conditions",
+      "The rule: 'Cotton kills' — use wool or synthetic base layers",
+      "Eat high-calorie foods to maintain metabolic heat",
+      "Stay dry — change out of wet clothes immediately",
+      "Watch for early shivering and act before progression",
+      "Buddy system — watch each other for signs of confusion"
+    ]
+  },
+  {
+    "id": "heatstroke",
+    "name": "Heat Stroke",
+    "category": "Environmental",
+    "severity": "Life-Threatening",
+    "symptoms": [
+      "high body temperature above 103F",
+      "hot dry skin",
+      "no sweating",
+      "confusion",
+      "rapid strong pulse",
+      "headache",
+      "nausea",
+      "unconsciousness",
+      "seizures"
+    ],
+    "immediateActions": [
+      "Move to a cool, shady area immediately",
+      "Call for emergency help",
+      "Cool the person as rapidly as possible — this is the priority",
+      "Fan while misting with cool water",
+      "Apply ice packs to neck, armpits, and groin",
+      "Do NOT give fluids to an unconscious person"
+    ],
+    "treatments": [
+      {
+        "id": "heat-t1",
+        "step": 1,
+        "description": "Remove from heat source. Move to shade or improvised shade structure. Lay person down with legs elevated if not unconscious.",
+        "materials": ["tarp", "space blanket for shade"],
+        "notes": null
+      },
+      {
+        "id": "heat-t2",
+        "step": 2,
+        "description": "Remove excess clothing. Fan the victim aggressively while misting skin with cool (not ice cold) water.",
+        "materials": ["water", "fan or improvised fan"],
+        "notes": "Cold water immersion is most effective if available — full body if possible"
+      },
+      {
+        "id": "heat-t3",
+        "step": 3,
+        "description": "Apply ice packs wrapped in cloth to the neck, armpits, and groin where blood vessels are near the surface.",
+        "materials": ["ice packs", "cold wet cloths"],
+        "notes": null
+      },
+      {
+        "id": "heat-t4",
+        "step": 4,
+        "description": "If conscious and able to drink, give cool water or electrolyte solution. Small sips frequently.",
+        "materials": ["cool water", "electrolyte tablets"],
+        "notes": null
+      }
+    ],
+    "warningSigns": [
+      "Temperature rises above 104°F (40°C)",
+      "Person becomes confused or combative",
+      "Seizures begin",
+      "Breathing becomes labored"
+    ],
+    "whenToEvacuate": "Heat stroke is always a medical emergency requiring immediate evacuation and hospital care.",
+    "preventionTips": [
+      "Acclimatize to heat over 7-14 days before strenuous activity",
+      "Drink water before you are thirsty — aim for 0.5L per hour in heat",
+      "Avoid activity during hottest hours (10am-4pm)",
+      "Wear light-colored, loose-fitting, breathable clothing",
+      "Wear a hat with full brim",
+      "Eat salty foods to replace electrolytes"
+    ]
+  },
+  {
+    "id": "heat-exhaustion",
+    "name": "Heat Exhaustion",
+    "category": "Environmental",
+    "severity": "Serious",
+    "symptoms": [
+      "heavy sweating",
+      "cool moist pale skin",
+      "weakness",
+      "dizziness",
+      "nausea",
+      "headache",
+      "fainting",
+      "muscle cramps",
+      "fast weak pulse"
+    ],
+    "immediateActions": [
+      "Stop activity and rest in a cool, shady place",
+      "Loosen or remove excess clothing",
+      "Apply cool wet cloths to skin",
+      "Sip cool water or sports drink if conscious"
+    ],
+    "treatments": [
+      {
+        "id": "hexhaust-t1",
+        "step": 1,
+        "description": "Stop all activity. Move to shade or cool environment. Lie down with feet elevated 12 inches.",
+        "materials": [],
+        "notes": null
+      },
+      {
+        "id": "hexhaust-t2",
+        "step": 2,
+        "description": "Remove excess clothing. Apply cool damp cloths to forehead, neck, and wrists.",
+        "materials": ["cool water", "cloth"],
+        "notes": null
+      },
+      {
+        "id": "hexhaust-t3",
+        "step": 3,
+        "description": "Rehydrate with water or electrolyte solution. 250ml every 15 minutes if tolerating well.",
+        "materials": ["water", "electrolyte solution"],
+        "notes": "Add a pinch of salt to water if electrolyte solution unavailable"
+      }
+    ],
+    "warningSigns": [
+      "Symptoms worsen rather than improve with rest and cooling",
+      "Person stops sweating (progressing to heat stroke)",
+      "Confusion develops",
+      "Vomiting prevents rehydration"
+    ],
+    "whenToEvacuate": "Evacuate if no improvement within 30 minutes of treatment, or if progressing toward heat stroke symptoms.",
+    "preventionTips": [
+      "Stay well hydrated before and during activity",
+      "Take regular shade breaks every hour",
+      "Eat salty snacks to maintain electrolyte balance"
+    ]
+  },
+  {
+    "id": "dehydration",
+    "name": "Dehydration",
+    "category": "Environmental",
+    "severity": "Moderate",
+    "symptoms": [
+      "thirst",
+      "dark urine",
+      "decreased urination",
+      "dry mouth",
+      "fatigue",
+      "dizziness",
+      "headache",
+      "muscle cramps",
+      "confusion"
+    ],
+    "immediateActions": [
+      "Stop activity and rest in shade",
+      "Drink clean water slowly",
+      "Add electrolytes if available"
+    ],
+    "treatments": [
+      {
+        "id": "dehyd-t1",
+        "step": 1,
+        "description": "Drink 500ml of water over 30 minutes. Do not chug — rapid intake can cause vomiting.",
+        "materials": ["clean water"],
+        "notes": null
+      },
+      {
+        "id": "dehyd-t2",
+        "step": 2,
+        "description": "Add electrolytes to water — sports drink, electrolyte tablets, or a pinch of salt with a pinch of sugar.",
+        "materials": ["electrolyte tablets", "salt", "sugar"],
+        "notes": null
+      },
+      {
+        "id": "dehyd-t3",
+        "step": 3,
+        "description": "Continue drinking 250ml every 15-20 minutes until urine returns to pale yellow.",
+        "materials": ["water"],
+        "notes": "Urine color is the best field indicator: clear = over-hydrated, pale yellow = good, dark yellow/brown = dehydrated"
+      }
+    ],
+    "warningSigns": [
+      "No urination for 8+ hours",
+      "Sunken eyes",
+      "Extreme weakness",
+      "Confusion or altered mental status (severe dehydration)"
+    ],
+    "whenToEvacuate": "Evacuate if unable to keep fluids down, or if severe symptoms develop. IV fluids may be needed for severe cases.",
+    "preventionTips": [
+      "Drink 0.5L of water per hour during activity in warm weather",
+      "Start the day well hydrated",
+      "Monitor urine color throughout the day",
+      "Increase intake at altitude"
+    ]
+  },
+  {
+    "id": "snake-bite",
+    "name": "Venomous Snake Bite",
+    "category": "Bites & Stings",
+    "severity": "Life-Threatening",
+    "symptoms": [
+      "fang marks",
+      "severe pain at bite site",
+      "swelling",
+      "bruising discoloration",
+      "nausea vomiting",
+      "difficulty breathing",
+      "blurred vision",
+      "numbness tingling",
+      "weakness"
+    ],
+    "immediateActions": [
+      "Move away from the snake — do not try to capture or kill it",
+      "Keep the victim calm and still — movement spreads venom faster",
+      "Keep the bitten limb below heart level",
+      "Remove rings, watches, and tight clothing from the affected limb",
+      "Begin evacuation immediately — antivenom is the definitive treatment"
+    ],
+    "treatments": [
+      {
+        "id": "snake-t1",
+        "step": 1,
+        "description": "Immobilize the bitten limb with an improvised splint. Keep below heart level.",
+        "materials": ["splint materials", "bandage"],
+        "notes": "Keep the patient as still as possible"
+      },
+      {
+        "id": "snake-t2",
+        "step": 2,
+        "description": "Clean the bite wound gently with soap and water if available. Do NOT cut or suck the wound.",
+        "materials": ["soap", "water", "clean cloth"],
+        "notes": "Cutting and sucking is ineffective and introduces infection"
+      },
+      {
+        "id": "snake-t3",
+        "step": 3,
+        "description": "Mark the leading edge of swelling with a pen and time — track spread. This information is vital for medical personnel.",
+        "materials": ["pen"],
+        "notes": null
+      },
+      {
+        "id": "snake-t4",
+        "step": 4,
+        "description": "Keep the victim calm, still, and lying down. Reassure them. Begin evacuation.",
+        "materials": [],
+        "notes": "Anxiety and movement significantly speed venom spread"
+      }
+    ],
+    "warningSigns": [
+      "Rapid, extensive swelling spreading up the limb",
+      "Difficulty breathing or swallowing",
+      "Altered consciousness",
+      "Signs of anaphylaxis (throat tightening, rash, drop in blood pressure)"
+    ],
+    "whenToEvacuate": "Immediately — snake bites from potentially venomous species are always a medical emergency. Antivenom must be administered in a hospital.",
+    "preventionTips": [
+      "Watch where you step and place your hands — never reach into unseen spaces",
+      "Wear long pants and boots in snake habitat",
+      "Use a walking stick to probe ahead when walking through tall grass",
+      "Do not pick up or handle any snake in the wild",
+      "Most snake bites occur when people try to handle or kill snakes"
+    ]
+  },
+  {
+    "id": "allergic-reaction",
+    "name": "Severe Allergic Reaction (Anaphylaxis)",
+    "category": "Bites & Stings",
+    "severity": "Life-Threatening",
+    "symptoms": [
+      "hives rash",
+      "swelling of face lips throat",
+      "difficulty breathing",
+      "wheezing",
+      "rapid pulse",
+      "dizziness",
+      "nausea vomiting",
+      "loss of consciousness",
+      "anxiety panic feeling"
+    ],
+    "immediateActions": [
+      "Use epinephrine auto-injector (EpiPen) immediately if available",
+      "Call for emergency help",
+      "Position patient lying down with legs raised unless breathing is difficult (then sit up)",
+      "If no EpiPen: keep airway open, be ready to perform CPR"
+    ],
+    "treatments": [
+      {
+        "id": "ana-t1",
+        "step": 1,
+        "description": "Administer epinephrine auto-injector (EpiPen) into the outer thigh. Can be through clothing.",
+        "materials": ["EpiPen / epinephrine auto-injector"],
+        "notes": "If no improvement after 5-15 minutes and a second EpiPen is available, administer a second dose"
+      },
+      {
+        "id": "ana-t2",
+        "step": 2,
+        "description": "Keep airway open. If unconscious, place in recovery position. Tilt head back to open airway.",
+        "materials": [],
+        "notes": null
+      },
+      {
+        "id": "ana-t3",
+        "step": 3,
+        "description": "If breathing stops, begin CPR.",
+        "materials": [],
+        "notes": null
+      }
+    ],
+    "warningSigns": [
+      "Stridor (high-pitched breathing sound) indicating airway narrowing",
+      "Cyanosis (blue lips or fingertips)",
+      "Rapid decline in consciousness"
+    ],
+    "whenToEvacuate": "All anaphylaxis cases require immediate evacuation — effects of epinephrine are temporary and symptoms can return.",
+    "preventionTips": [
+      "Always carry prescribed EpiPen if known allergy history",
+      "Wear a medical alert bracelet",
+      "Inform fellow scouts of your allergies before trips",
+      "Carry antihistamines as a second-line measure (Benadryl)"
+    ]
+  },
+  {
+    "id": "fracture",
+    "name": "Bone Fracture",
+    "category": "Musculoskeletal",
+    "severity": "Serious",
+    "symptoms": [
+      "severe pain at injury site",
+      "swelling",
+      "bruising",
+      "deformity or unnatural angle",
+      "inability to bear weight or use limb",
+      "tenderness to touch",
+      "grating sensation or sound",
+      "numbness below injury"
+    ],
+    "immediateActions": [
+      "Do not attempt to straighten a broken bone",
+      "Immobilize the fracture in the position found",
+      "Check circulation, sensation, and movement below the injury",
+      "Splint the fracture including the joint above and below the break"
+    ],
+    "treatments": [
+      {
+        "id": "frac-t1",
+        "step": 1,
+        "description": "Check CSM (Circulation, Sensation, Movement) below the injury. Pulse, skin color, ability to feel touch, ability to wiggle fingers/toes.",
+        "materials": [],
+        "notes": "Document and recheck every 15-20 minutes — loss of CSM is a surgical emergency"
+      },
+      {
+        "id": "frac-t2",
+        "step": 2,
+        "description": "Pad the fracture generously. Use clothing, foam, or soft materials around the injured area.",
+        "materials": ["clothing", "foam padding", "bandanas"],
+        "notes": null
+      },
+      {
+        "id": "frac-t3",
+        "step": 3,
+        "description": "Splint the fracture including the joint above and below the break. Rigid splint (branch, trekking pole, SAM splint) with soft padding inside.",
+        "materials": ["rigid branch or trekking pole", "SAM splint", "padding", "bandages or strips of clothing"],
+        "notes": "Splint should be snug but not tight enough to cut circulation"
+      },
+      {
+        "id": "frac-t4",
+        "step": 4,
+        "description": "Elevate the injured limb if possible to reduce swelling. Apply cold pack wrapped in cloth if available.",
+        "materials": ["cold pack or snow in cloth"],
+        "notes": null
+      }
+    ],
+    "warningSigns": [
+      "Loss of pulse below the fracture",
+      "Skin goes white, blue, or mottled below the injury",
+      "Open fracture — bone visible through skin (requires sterile dressing)",
+      "Fracture of femur (thigh) — can bleed 1-2 liters internally; treat for shock"
+    ],
+    "whenToEvacuate": "All suspected fractures in the wilderness require evacuation. Open fractures and femur fractures are urgent.",
+    "preventionTips": [
+      "Use trekking poles for stability on uneven terrain",
+      "Test footing before full weight commitment",
+      "Wear appropriate footwear with ankle support",
+      "Travel slower in low light conditions"
+    ]
+  },
+  {
+    "id": "sprain",
+    "name": "Sprain / Strain",
+    "category": "Musculoskeletal",
+    "severity": "Moderate",
+    "symptoms": [
+      "pain at joint",
+      "swelling",
+      "bruising",
+      "limited range of motion",
+      "tenderness to touch",
+      "instability of joint"
+    ],
+    "immediateActions": [
+      "Stop activity",
+      "Apply RICE: Rest, Ice, Compression, Elevation"
+    ],
+    "treatments": [
+      {
+        "id": "sprain-t1",
+        "step": 1,
+        "description": "Rest: Stop all weight-bearing activity on the injured joint.",
+        "materials": [],
+        "notes": null
+      },
+      {
+        "id": "sprain-t2",
+        "step": 2,
+        "description": "Ice: Apply cold pack or snow wrapped in cloth to injured area for 20 minutes every hour.",
+        "materials": ["cold pack", "snow", "cloth"],
+        "notes": "Never apply ice directly to skin — always use cloth barrier"
+      },
+      {
+        "id": "sprain-t3",
+        "step": 3,
+        "description": "Compression: Apply figure-8 wrap with elastic bandage from foot up to mid-calf for ankle sprains.",
+        "materials": ["elastic bandage", "athletic tape"],
+        "notes": "Check circulation regularly — rewrap if fingers or toes become cold, blue, or numb"
+      },
+      {
+        "id": "sprain-t4",
+        "step": 4,
+        "description": "Elevation: Keep the injured limb raised above heart level when resting.",
+        "materials": ["pack", "rolled sleeping bag"],
+        "notes": null
+      }
+    ],
+    "warningSigns": [
+      "Unable to bear any weight after 30 minutes of rest (possible fracture)",
+      "Significant deformity (possible fracture)",
+      "Severe instability",
+      "Numbness or tingling"
+    ],
+    "whenToEvacuate": "Evacuate if patient cannot walk with support, or if fracture is suspected. Mild sprains may allow slow hiking with taping support.",
+    "preventionTips": [
+      "Warm up properly before hiking",
+      "Wear proper footwear with ankle support",
+      "Use trekking poles on uneven terrain",
+      "Watch for roots, rocks, and unstable ground"
+    ]
+  },
+  {
+    "id": "blister",
+    "name": "Blister",
+    "category": "Wounds",
+    "severity": "Minor",
+    "symptoms": [
+      "fluid-filled bubble on skin",
+      "localized pain",
+      "redness around blister",
+      "tender to touch"
+    ],
+    "immediateActions": [
+      "Stop and address the blister before it bursts",
+      "Clean the area",
+      "Apply blister bandage or moleskin donut"
+    ],
+    "treatments": [
+      {
+        "id": "blist-t1",
+        "step": 1,
+        "description": "If blister is intact: clean with antiseptic, apply donut-shaped moleskin pad around the blister to relieve pressure. Cover with bandage.",
+        "materials": ["moleskin", "bandage", "antiseptic wipe"],
+        "notes": "Try to keep the blister intact — the skin over the blister is the best protection"
+      },
+      {
+        "id": "blist-t2",
+        "step": 2,
+        "description": "If the blister must be drained (very large or about to burst): sterilize a needle with flame, puncture at the base in 2-3 spots, gently press out fluid.",
+        "materials": ["needle", "lighter", "antiseptic", "bandage"],
+        "notes": "Only drain if continuing the hike is required and the blister is severely impairing movement"
+      },
+      {
+        "id": "blist-t3",
+        "step": 3,
+        "description": "After draining, do NOT remove the blister roof. Apply antibiotic ointment and a non-stick dressing. Check daily for infection.",
+        "materials": ["antibiotic ointment", "non-stick dressing", "tape"],
+        "notes": null
+      }
+    ],
+    "warningSigns": [
+      "Red streaking around blister (sign of infection)",
+      "Pus or cloudy fluid",
+      "Increasing pain, warmth, and redness",
+      "Fever (systemic infection)"
+    ],
+    "whenToEvacuate": "Evacuate for signs of infection that do not improve with cleaning and antibiotic ointment, or if fever develops.",
+    "preventionTips": [
+      "Break in new boots before long hikes",
+      "Wear moisture-wicking liner socks under hiking socks",
+      "Apply moleskin or tape to known hot spots before they blister",
+      "Keep feet dry — change socks if wet",
+      "Address hot spots immediately before they become blisters"
+    ]
+  },
+  {
+    "id": "wound-laceration",
+    "name": "Laceration (Cut)",
+    "category": "Wounds",
+    "severity": "Moderate",
+    "symptoms": [
+      "bleeding",
+      "open wound",
+      "pain at wound site",
+      "swelling",
+      "possible numbness if nerve involved"
+    ],
+    "immediateActions": [
+      "Apply direct pressure with a clean cloth",
+      "Elevate the wound above heart level if possible",
+      "Do not remove embedded objects"
+    ],
+    "treatments": [
+      {
+        "id": "lac-t1",
+        "step": 1,
+        "description": "Control bleeding: apply firm direct pressure with cleanest material available (sterile dressing if in kit) for a full 10 minutes without lifting.",
+        "materials": ["sterile gauze", "clean cloth", "bandage"],
+        "notes": "Do not lift the bandage to check — this disrupts clot formation. Add more layers on top if blood soaks through."
+      },
+      {
+        "id": "lac-t2",
+        "step": 2,
+        "description": "Once bleeding is controlled, clean the wound thoroughly with clean water using irrigation (pour or squeeze with force). Rinse away all visible dirt.",
+        "materials": ["clean water", "irrigation syringe if available"],
+        "notes": "The solution to pollution is dilution — clean water irrigation is the most important step in preventing infection"
+      },
+      {
+        "id": "lac-t3",
+        "step": 3,
+        "description": "For gaping wounds: close with butterfly bandages, steri-strips, or improvised closure (safety pins, tape strips). Align wound edges carefully.",
+        "materials": ["butterfly bandages", "steri-strips", "tape"],
+        "notes": "Do not close wounds that are very dirty, puncture wounds, or animal bites — these need to drain"
+      },
+      {
+        "id": "lac-t4",
+        "step": 4,
+        "description": "Apply antibiotic ointment and a sterile non-stick dressing. Change daily and check for infection.",
+        "materials": ["antibiotic ointment", "non-stick dressing", "bandage", "tape"],
+        "notes": null
+      }
+    ],
+    "warningSigns": [
+      "Bright red blood spurting in pulses (arterial bleeding — apply tourniquet above wound)",
+      "Bleeding that does not slow after 10 minutes of pressure",
+      "Red streaking extending from wound (infection)",
+      "Wound is gaping and will not close (may need stitches)",
+      "Signs of tendon damage (inability to move fingers/toes)"
+    ],
+    "whenToEvacuate": "Evacuate for uncontrolled bleeding, deep wounds requiring stitches, wounds with signs of infection, or wounds involving tendons or joints.",
+    "preventionTips": [
+      "Always cut away from your body when using knives",
+      "Keep knives sharp — dull knives require more force and slip more easily",
+      "Use a cutting board or flat surface when food prep",
+      "Wear gloves when handling sharp objects or clearing debris"
+    ]
+  },
+  {
+    "id": "giardia",
+    "name": "Giardia (Waterborne Illness)",
+    "category": "Illness",
+    "severity": "Moderate",
+    "symptoms": [
+      "severe diarrhea",
+      "abdominal cramps",
+      "bloating and gas",
+      "nausea",
+      "fatigue",
+      "greasy floating stools",
+      "weight loss",
+      "symptoms beginning 1-3 weeks after exposure"
+    ],
+    "immediateActions": [
+      "Increase fluid intake to prevent dehydration",
+      "Rest",
+      "Avoid sharing food or utensils"
+    ],
+    "treatments": [
+      {
+        "id": "giar-t1",
+        "step": 1,
+        "description": "Aggressive rehydration with clean water and electrolytes. Oral Rehydration Solution (ORS) if available.",
+        "materials": ["clean water", "electrolyte solution", "ORS packets"],
+        "notes": "Giardia does not fully resolve without medical treatment (antibiotics like metronidazole) but symptoms can be managed in the field"
+      },
+      {
+        "id": "giar-t2",
+        "step": 2,
+        "description": "Eat bland, easily digestible foods. Avoid dairy, fatty foods, and raw vegetables.",
+        "materials": [],
+        "notes": null
+      }
+    ],
+    "warningSigns": [
+      "Inability to keep fluids down",
+      "Signs of severe dehydration",
+      "Blood in stool",
+      "High fever"
+    ],
+    "whenToEvacuate": "Evacuate if rehydration cannot be maintained, or for medical treatment with antibiotics.",
+    "preventionTips": [
+      "Always purify backcountry water — boil, filter, or treat chemically",
+      "Wash hands thoroughly before eating and after using the bathroom",
+      "Use a WAG bag system — bury waste at least 200 feet from water sources",
+      "Never drink from standing water"
+    ]
+  },
+  {
+    "id": "head-injury",
+    "name": "Head Injury / Concussion",
+    "category": "Trauma",
+    "severity": "Serious",
+    "symptoms": [
+      "headache",
+      "confusion",
+      "memory loss",
+      "nausea vomiting",
+      "dizziness",
+      "blurred vision",
+      "loss of consciousness",
+      "unequal pupil size",
+      "seizures",
+      "clear fluid from nose or ears"
+    ],
+    "immediateActions": [
+      "Do not move the patient if spinal injury is possible",
+      "Keep airway open",
+      "Monitor level of consciousness continuously",
+      "Do not give aspirin or ibuprofen (can increase bleeding)"
+    ],
+    "treatments": [
+      {
+        "id": "head-t1",
+        "step": 1,
+        "description": "Stabilize the head and neck if mechanism of injury suggests possible spinal injury (fall, impact). Manual cervical stabilization: hold head in neutral position.",
+        "materials": ["improvised cervical collar if available"],
+        "notes": "If patient is breathing and unconscious without spinal injury risk, use the recovery position"
+      },
+      {
+        "id": "head-t2",
+        "step": 2,
+        "description": "Assess level of consciousness every 15 minutes using AVPU scale: Alert, responds to Voice, responds to Pain, Unresponsive.",
+        "materials": [],
+        "notes": "Any deterioration in level of consciousness is a serious sign requiring urgent evacuation"
+      },
+      {
+        "id": "head-t3",
+        "step": 3,
+        "description": "For concussion: rest completely. No exercise, screens, or activities requiring concentration. Wake every 2 hours if sleeping to assess consciousness.",
+        "materials": [],
+        "notes": null
+      }
+    ],
+    "warningSigns": [
+      "One pupil larger than the other (brain herniation — critical emergency)",
+      "Repeated vomiting (increased intracranial pressure)",
+      "Worsening headache",
+      "Clear fluid from ears or nose (CSF — skull fracture)",
+      "Deteriorating level of consciousness",
+      "Battle's sign: bruising behind the ears (delayed sign of skull fracture)"
+    ],
+    "whenToEvacuate": "Any loss of consciousness, confusion lasting more than 1 hour, worsening headache, vomiting, or unequal pupils — evacuate immediately.",
+    "preventionTips": [
+      "Always wear a helmet for activities such as biking, climbing, and whitewater activities",
+      "Use trekking poles on uneven terrain to prevent falls",
+      "Never dive into unknown bodies of water"
+    ]
+  },
+  {
+    "id": "sunburn",
+    "name": "Sunburn",
+    "category": "Environmental",
+    "severity": "Minor",
+    "symptoms": [
+      "red painful skin",
+      "warm skin to touch",
+      "peeling skin after 24-48 hours",
+      "blistering severe sunburn",
+      "headache",
+      "fever"
+    ],
+    "immediateActions": [
+      "Get out of the sun",
+      "Apply cool compresses or cool (not cold) water",
+      "Stay hydrated"
+    ],
+    "treatments": [
+      {
+        "id": "sun-t1",
+        "step": 1,
+        "description": "Cool the skin with cool water compresses. Do not use ice.",
+        "materials": ["cool water", "clean cloth"],
+        "notes": null
+      },
+      {
+        "id": "sun-t2",
+        "step": 2,
+        "description": "Apply aloe vera gel or a gentle moisturizing lotion. Avoid products with petroleum-based ingredients (trap heat) or benzocaine (can cause allergic reactions).",
+        "materials": ["aloe vera gel", "moisturizer"],
+        "notes": null
+      },
+      {
+        "id": "sun-t3",
+        "step": 3,
+        "description": "Take ibuprofen or acetaminophen for pain and inflammation. Drink extra water.",
+        "materials": ["ibuprofen", "acetaminophen"],
+        "notes": null
+      }
+    ],
+    "warningSigns": [
+      "Blistering over large areas (2nd degree burn)",
+      "Fever above 103°F",
+      "Signs of heat stroke accompanying sunburn"
+    ],
+    "whenToEvacuate": "Severe blistering sunburn covering large areas, or sunburn combined with heat stroke symptoms.",
+    "preventionTips": [
+      "Apply SPF 30+ sunscreen 30 minutes before sun exposure, reapply every 2 hours",
+      "Wear UPF-rated clothing, wide-brimmed hat, and sunglasses",
+      "Seek shade between 10am and 4pm",
+      "Snow and water reflect UV and increase exposure significantly"
+    ]
+  },
+  {
+    "id": "frostbite",
+    "name": "Frostbite",
+    "category": "Environmental",
+    "severity": "Serious",
+    "symptoms": [
+      "cold numb skin",
+      "white or grayish-yellow skin color",
+      "hard or waxy-feeling skin",
+      "blistering after rewarming",
+      "pain or burning sensation",
+      "loss of sensation in affected area",
+      "skin turns red then purple or black in severe cases"
+    ],
+    "immediateActions": [
+      "Get out of the cold and wind immediately",
+      "Do NOT rub the affected area — this damages tissue",
+      "Do NOT rewarm if there is risk of refreezing — walking on a rewarmed foot causes more damage than the frostbite itself",
+      "Remove wet clothing and jewelry from the affected area",
+      "Protect the area from further cold and trauma"
+    ],
+    "treatments": [
+      {
+        "id": "frost-t1",
+        "step": 1,
+        "description": "Assess depth: superficial (frostnip) — skin is soft underneath but numb and white. Deep frostbite — skin is hard and wooden throughout.",
+        "materials": [],
+        "notes": "Frostnip can be treated in the field. Deep frostbite requires evacuation for controlled rewarming."
+      },
+      {
+        "id": "frost-t2",
+        "step": 2,
+        "description": "For frostnip only: rewarm by placing affected area against warm skin — armpits for hands, warm abdomen for feet. Steady warmth for 20-30 minutes.",
+        "materials": [],
+        "notes": "Do not use fire, heating pads, or hot water — frostbitten skin cannot feel heat and will burn"
+      },
+      {
+        "id": "frost-t3",
+        "step": 3,
+        "description": "If evacuation is more than 2 hours away and refreezing is not a risk, rewarm deep frostbite in water between 99-102°F (warm to the touch, not hot). Immerse for 15-30 minutes until tissue is soft and flushed.",
+        "materials": ["container", "water thermometer if available"],
+        "notes": "Rewarming is extremely painful — ibuprofen can help reduce pain and tissue damage if available"
+      },
+      {
+        "id": "frost-t4",
+        "step": 4,
+        "description": "After rewarming, loosely wrap with sterile gauze. Place dry gauze between toes/fingers. Do not break blisters. Elevate if possible.",
+        "materials": ["sterile gauze", "loose bandage"],
+        "notes": null
+      }
+    ],
+    "warningSigns": [
+      "Hard, wooden-feeling tissue that does not soften with warmth (deep frostbite)",
+      "Black or mummified tissue (severe deep frostbite — tissue death)",
+      "Large blood-filled blisters (deep frostbite)",
+      "Frostbite combined with hypothermia — treat hypothermia first"
+    ],
+    "whenToEvacuate": "Evacuate all deep frostbite cases. Superficial frostnip that fully resolves with field rewarming may not require evacuation.",
+    "preventionTips": [
+      "Dress in layers — wool or synthetic only, no cotton",
+      "Keep extremities dry — change wet gloves and socks immediately",
+      "Wiggle fingers and toes regularly in cold to maintain circulation",
+      "Buddy system — check each other's face and ears for white patches",
+      "Eat and stay hydrated — dehydration and low blood sugar accelerate frostbite"
+    ]
+  },
+  {
+    "id": "burn",
+    "name": "Burn",
+    "category": "Wounds",
+    "severity": "Moderate",
+    "symptoms": [
+      "redness and pain (1st degree)",
+      "blisters and intense pain (2nd degree)",
+      "white, brown, or black skin with little pain (3rd degree — nerve damage)",
+      "swelling around the burn",
+      "peeling skin"
+    ],
+    "immediateActions": [
+      "Cool the burn immediately with cool (not cold) running water for 10-20 minutes",
+      "Do NOT use ice, butter, toothpaste, or oil — these cause more damage",
+      "Remove jewelry and loose clothing near the burn before swelling begins",
+      "Do not break blisters",
+      "Cover loosely with a clean non-stick dressing"
+    ],
+    "treatments": [
+      {
+        "id": "burn-t1",
+        "step": 1,
+        "description": "Cool with cool running water for a full 10-20 minutes. This is the most important step and reduces tissue damage even if started several minutes after the burn.",
+        "materials": ["clean cool water"],
+        "notes": "Do not use ice — it causes vasoconstriction and worsens tissue damage"
+      },
+      {
+        "id": "burn-t2",
+        "step": 2,
+        "description": "Assess burn depth and area. 1st degree: red, painful, no blisters. 2nd degree: blisters, very painful. 3rd degree: leathery/charred skin, painless.",
+        "materials": [],
+        "notes": "Use the Rule of Nines to estimate burn area: each arm = 9%, each leg = 18%, chest = 18%, back = 18%, head = 9%"
+      },
+      {
+        "id": "burn-t3",
+        "step": 3,
+        "description": "Cover with a clean non-stick dressing or cling wrap (does not stick to wound). Do not use fluffy cotton — fibers stick to the wound.",
+        "materials": ["non-stick dressing", "cling wrap", "clean cloth"],
+        "notes": null
+      },
+      {
+        "id": "burn-t4",
+        "step": 4,
+        "description": "Give ibuprofen or acetaminophen for pain. Keep the patient warm — large burns cause rapid heat and fluid loss.",
+        "materials": ["ibuprofen", "acetaminophen", "blanket"],
+        "notes": null
+      }
+    ],
+    "warningSigns": [
+      "3rd degree burn — any size requires evacuation",
+      "Burns covering more than 10% of body surface (roughly one whole arm)",
+      "Burns to face, hands, feet, genitals, or over a joint",
+      "Burn caused by chemicals or electricity",
+      "Inhalation burn — singed nose hairs, hoarse voice, soot in mouth (airway emergency)"
+    ],
+    "whenToEvacuate": "Evacuate all 3rd degree burns, large 2nd degree burns, burns to critical areas, and any chemical or electrical burns. 1st degree and small 2nd degree burns can be managed in the field.",
+    "preventionTips": [
+      "Never leave a fire unattended",
+      "Keep a safe distance from open flames — synthetic fabrics melt and stick to skin",
+      "Use a pot holder or gloves when handling hot cookware",
+      "Set up a fire perimeter to keep people a safe distance from open flames",
+      "Boiling water is a common burn source — always pour away from yourself"
+    ]
+  },
+  {
+    "id": "shock",
+    "name": "Shock",
+    "category": "Trauma",
+    "severity": "Life-Threatening",
+    "symptoms": [
+      "pale cool clammy skin",
+      "rapid weak pulse",
+      "rapid shallow breathing",
+      "confusion or altered mental status",
+      "nausea or vomiting",
+      "extreme thirst",
+      "weakness and dizziness",
+      "anxiety or restlessness",
+      "loss of consciousness in severe cases"
+    ],
+    "immediateActions": [
+      "Treat the underlying cause if possible (control bleeding, treat burns, etc.)",
+      "Lay the patient flat and elevate the legs 8-12 inches unless head, neck, or spinal injury is suspected",
+      "Keep the patient warm — prevent heat loss with blankets",
+      "Do not give food or water by mouth",
+      "Monitor and reassess continuously"
+    ],
+    "treatments": [
+      {
+        "id": "shock-t1",
+        "step": 1,
+        "description": "Identify and control the cause: stop severe bleeding with direct pressure or tourniquet, treat severe allergic reactions with epinephrine, cool heat stroke victims.",
+        "materials": [],
+        "notes": "Shock is a symptom, not a diagnosis — treating the cause is the priority"
+      },
+      {
+        "id": "shock-t2",
+        "step": 2,
+        "description": "Position: lay flat on back, elevate legs 8-12 inches. If unconscious and breathing, use recovery position. If breathing is difficult, sit upright.",
+        "materials": ["pack or rolled clothing to elevate legs"],
+        "notes": "Do not elevate legs if you suspect head, spinal, hip, pelvis, or leg fracture"
+      },
+      {
+        "id": "shock-t3",
+        "step": 3,
+        "description": "Prevent heat loss. Insulate from the ground and cover with blankets or a sleeping bag. A hypothermic shock victim deteriorates much faster.",
+        "materials": ["sleeping bag", "space blanket", "extra clothing"],
+        "notes": null
+      },
+      {
+        "id": "shock-t4",
+        "step": 4,
+        "description": "Monitor vital signs every 5 minutes: pulse rate and quality, respiratory rate, skin color and temperature, level of consciousness.",
+        "materials": [],
+        "notes": "Record findings — trending is as important as individual readings for medical personnel"
+      }
+    ],
+    "warningSigns": [
+      "Pulse becomes absent or imperceptible — begin CPR",
+      "Breathing stops — begin CPR",
+      "Patient becomes unresponsive",
+      "Signs of internal bleeding: rigid or distended abdomen, bruising over abdomen or flanks"
+    ],
+    "whenToEvacuate": "All shock cases require immediate evacuation. Shock is life-threatening and cannot be definitively treated in the field.",
+    "preventionTips": [
+      "Control bleeding rapidly and aggressively — blood loss is the most common shock cause in trauma",
+      "Carry a tourniquet and know how to use it",
+      "Keep patients warm after injuries — hypothermia worsens shock significantly",
+      "Know your group members' allergy history and whether they carry epinephrine"
+    ]
+  },
+  {
+    "id": "tick-bite",
+    "name": "Tick Bite",
+    "category": "Bites & Stings",
+    "severity": "Moderate",
+    "symptoms": [
+      "tick attached to skin",
+      "redness or mild swelling at bite site",
+      "itching",
+      "bull's-eye rash (erythema migrans — sign of Lyme disease, appears 3-30 days after bite)",
+      "flu-like symptoms days after bite (fever, fatigue, headache, muscle aches)",
+      "joint pain weeks after untreated bite"
+    ],
+    "immediateActions": [
+      "Remove the tick as soon as possible — the longer it feeds, the higher the transmission risk",
+      "Use fine-tipped tweezers or a tick removal tool",
+      "Do NOT twist, crush, or use petroleum jelly, heat, or nail polish — these cause the tick to regurgitate into the wound"
+    ],
+    "treatments": [
+      {
+        "id": "tick-t1",
+        "step": 1,
+        "description": "Grasp the tick with fine-tipped tweezers as close to the skin surface as possible. Pull upward with steady, even pressure — do not jerk or twist.",
+        "materials": ["fine-tipped tweezers or tick removal tool"],
+        "notes": "If mouthparts break off and remain in the skin, leave them and let the skin heal — do not dig for them"
+      },
+      {
+        "id": "tick-t2",
+        "step": 2,
+        "description": "Clean the bite area thoroughly with soap and water, then apply antiseptic.",
+        "materials": ["soap", "water", "antiseptic wipe or solution"],
+        "notes": null
+      },
+      {
+        "id": "tick-t3",
+        "step": 3,
+        "description": "Save the tick in a sealed bag or container. Note the date and body location of the bite. This information helps medical personnel assess Lyme disease risk.",
+        "materials": ["small bag or container"],
+        "notes": "Take a photo if a container is not available"
+      },
+      {
+        "id": "tick-t4",
+        "step": 4,
+        "description": "Monitor the bite site and the patient for 30 days. Watch for a bull's-eye rash (expanding red ring) or flu-like symptoms.",
+        "materials": [],
+        "notes": "Lyme disease is treatable with antibiotics if caught early — report any symptoms to a doctor promptly"
+      }
+    ],
+    "warningSigns": [
+      "Bull's-eye rash (erythema migrans) — Lyme disease indicator, seek medical care",
+      "Fever, severe headache, or stiff neck within days of bite (possible tick-borne illness)",
+      "Paralysis or weakness beginning in the legs and spreading upward (tick paralysis — remove tick immediately)",
+      "Tick found in groin, behind ear, or in scalp — higher infection risk areas"
+    ],
+    "whenToEvacuate": "Evacuate if a bull's-eye rash develops, fever develops within 30 days of the bite, or if signs of tick paralysis appear.",
+    "preventionTips": [
+      "Wear long pants tucked into socks and long sleeves in tick habitat",
+      "Apply DEET or permethrin-treated clothing",
+      "Do a full body tick check after every outing — focus on scalp, behind ears, armpits, groin, and behind knees",
+      "Check gear and pets before entering your shelter",
+      "Stay on trails and avoid brushing against tall grass and bushes"
+    ]
+  },
+  {
+    "id": "choking",
+    "name": "Choking",
+    "category": "Trauma",
+    "severity": "Life-Threatening",
+    "symptoms": [
+      "sudden inability to speak or cry",
+      "clutching the throat (universal choking sign)",
+      "weak or ineffective cough",
+      "high-pitched noise or no sound when breathing",
+      "blue lips or fingertips (cyanosis)",
+      "loss of consciousness"
+    ],
+    "immediateActions": [
+      "Ask 'Are you choking?' — if they can speak or cough forcefully, encourage them to keep coughing",
+      "If they cannot speak, cry, or cough effectively, act immediately",
+      "For adults and children over 1 year: perform abdominal thrusts (Heimlich maneuver)",
+      "For infants under 1 year: use back blows and chest thrusts — NOT abdominal thrusts",
+      "If the person becomes unconscious, begin CPR"
+    ],
+    "treatments": [
+      {
+        "id": "choke-t1",
+        "step": 1,
+        "description": "Stand behind the person. Make a fist with one hand and place the thumb side against the abdomen, just above the navel and well below the breastbone. Grasp your fist with the other hand.",
+        "materials": [],
+        "notes": "For a pregnant person or someone too large to encircle, use chest thrusts against the lower breastbone instead"
+      },
+      {
+        "id": "choke-t2",
+        "step": 2,
+        "description": "Give firm upward and inward abdominal thrusts. Repeat until the object is expelled or the person loses consciousness.",
+        "materials": [],
+        "notes": "Each thrust should be a distinct, forceful motion — not a squeeze"
+      },
+      {
+        "id": "choke-t3",
+        "step": 3,
+        "description": "Self-choking: make a fist and thrust inward and upward against your own abdomen. Alternatively, lean over and drive your upper abdomen against a hard edge like a chair back or counter.",
+        "materials": [],
+        "notes": null
+      },
+      {
+        "id": "choke-t4",
+        "step": 4,
+        "description": "If the person loses consciousness, lower them carefully to the ground. Begin CPR. Each time you open the airway to give a breath, look in the mouth — if you can see the object, remove it with a finger sweep. Do not perform blind finger sweeps.",
+        "materials": [],
+        "notes": "CPR chest compressions can dislodge a foreign body airway obstruction"
+      }
+    ],
+    "warningSigns": [
+      "Cyanosis (blue lips or fingertips) — severe hypoxia",
+      "Loss of consciousness — begin CPR immediately",
+      "Abdominal thrusts are not dislodging the object after multiple attempts"
+    ],
+    "whenToEvacuate": "Evacuate after any choking episode that required abdominal thrusts — internal injury to the abdomen or airway is possible and requires medical evaluation.",
+    "preventionTips": [
+      "Cut food into small pieces, especially for younger scouts",
+      "Do not eat while walking, running, or talking loudly",
+      "All trip leaders should be trained in CPR and the Heimlich maneuver",
+      "Keep small objects and hard candies away from young children"
+    ]
+  },
+  {
+    "id": "altitude-sickness",
+    "name": "Altitude Sickness (AMS)",
+    "category": "Environmental",
+    "severity": "Serious",
+    "symptoms": [
+      "headache (primary symptom)",
+      "fatigue and weakness",
+      "loss of appetite",
+      "nausea or vomiting",
+      "dizziness",
+      "difficulty sleeping",
+      "shortness of breath at rest (severe AMS)",
+      "confusion or loss of coordination (HACE — brain swelling)",
+      "persistent dry cough or pink frothy sputum (HAPE — lung fluid)"
+    ],
+    "immediateActions": [
+      "Stop ascending immediately at first symptoms",
+      "Rest at current altitude — do not go higher",
+      "Descend if symptoms do not improve within 24 hours or worsen at any point",
+      "Descend immediately for any signs of HACE (confusion, loss of coordination) or HAPE (breathlessness at rest, gurgling cough)"
+    ],
+    "treatments": [
+      {
+        "id": "ams-t1",
+        "step": 1,
+        "description": "Stop ascending. Rest at the same altitude. Mild AMS often resolves within 12-24 hours with acclimatization — do not push higher.",
+        "materials": [],
+        "notes": "The golden rule: never ascend with symptoms. 'If in doubt, go down.'"
+      },
+      {
+        "id": "ams-t2",
+        "step": 2,
+        "description": "Stay hydrated. Drink 3-4 liters of water per day at altitude. Avoid alcohol and sedatives — both suppress breathing.",
+        "materials": ["water"],
+        "notes": null
+      },
+      {
+        "id": "ams-t3",
+        "step": 3,
+        "description": "Ibuprofen (600mg every 8 hours) reduces AMS headache and has been shown to reduce AMS severity. Acetaminophen is an alternative for pain relief.",
+        "materials": ["ibuprofen", "acetaminophen"],
+        "notes": "Ibuprofen treats symptoms — it does not cure AMS or replace descent"
+      },
+      {
+        "id": "ams-t4",
+        "step": 4,
+        "description": "If symptoms worsen or do not improve in 24 hours, descend a minimum of 300-500 meters (1,000-1,500 ft). Even a small descent can produce dramatic improvement.",
+        "materials": [],
+        "notes": "Descend immediately for any sign of HACE or HAPE — these are life-threatening emergencies"
+      }
+    ],
+    "warningSigns": [
+      "Loss of coordination or staggering gait (HACE — High Altitude Cerebral Edema): descend immediately",
+      "Confusion, severe headache unresponsive to medication, altered mental status (HACE)",
+      "Breathlessness at rest, persistent cough, gurgling sound in chest (HAPE — High Altitude Pulmonary Edema): descend immediately",
+      "Pink or frothy sputum (HAPE — advanced, critical)",
+      "Any AMS symptoms in a child — children deteriorate faster than adults"
+    ],
+    "whenToEvacuate": "Descend immediately for HACE or HAPE — both are life-threatening. Mild AMS that does not improve with 24 hours of rest at altitude also requires descent.",
+    "preventionTips": [
+      "Ascend slowly: above 8,000 ft, limit sleeping altitude gain to 1,000 ft per day",
+      "Climb high, sleep low — daytime ascents are fine if you descend to sleep",
+      "Spend an extra acclimatization day for every 3,000 ft above 8,000 ft",
+      "Stay well hydrated throughout the trip",
+      "Avoid alcohol and sleeping pills the first nights at altitude",
+      "Know the symptoms — AMS can affect anyone regardless of fitness level"
+    ]
+  },
+  {
+    "id": "bee-sting",
+    "name": "Bee / Wasp Sting",
+    "category": "Bites & Stings",
+    "severity": "Minor",
+    "symptoms": [
+      "immediate sharp pain at sting site",
+      "redness and swelling at sting site",
+      "itching",
+      "white raised welt",
+      "warmth around the sting",
+      "multiple stings may cause nausea, fever, and dizziness"
+    ],
+    "immediateActions": [
+      "Move away from the area to avoid further stings",
+      "Remove the stinger if present — scrape out with a fingernail or card edge, do not squeeze it",
+      "Watch closely for signs of allergic reaction for at least 30 minutes",
+      "Have epinephrine ready if the person has a known bee allergy"
+    ],
+    "treatments": [
+      {
+        "id": "bee-t1",
+        "step": 1,
+        "description": "Remove the stinger by scraping with a fingernail, credit card edge, or knife blade. Do not use tweezers — squeezing injects more venom.",
+        "materials": ["card or fingernail"],
+        "notes": "Only honeybees leave a stinger — wasps, hornets, and yellow jackets do not"
+      },
+      {
+        "id": "bee-t2",
+        "step": 2,
+        "description": "Wash the sting site with soap and water. Apply a cold pack wrapped in cloth for 20 minutes to reduce pain and swelling.",
+        "materials": ["soap", "water", "cold pack or ice in cloth"],
+        "notes": null
+      },
+      {
+        "id": "bee-t3",
+        "step": 3,
+        "description": "Apply hydrocortisone cream or calamine lotion if available. Oral antihistamine (Benadryl) reduces itching and mild localized swelling.",
+        "materials": ["hydrocortisone cream", "antihistamine (Benadryl)"],
+        "notes": null
+      },
+      {
+        "id": "bee-t4",
+        "step": 4,
+        "description": "For multiple stings (20+ in adults, fewer in children): treat as potentially serious. Lay the patient down, monitor closely for systemic reaction, and prepare to evacuate.",
+        "materials": [],
+        "notes": "Mass envenomation from multiple stings can cause toxic reaction even without allergy"
+      }
+    ],
+    "warningSigns": [
+      "Hives, swelling of face or throat, difficulty breathing — anaphylaxis, use EpiPen immediately",
+      "Dizziness, rapid pulse, or drop in blood pressure",
+      "Swelling that spreads rapidly beyond the sting site",
+      "Sting inside the mouth or throat — airway swelling risk even without allergy"
+    ],
+    "whenToEvacuate": "Evacuate immediately for any systemic allergic reaction. Single uncomplicated stings do not require evacuation.",
+    "preventionTips": [
+      "Avoid wearing bright floral patterns and sweet-scented perfumes or lotions",
+      "Keep food and drinks covered — yellow jackets are attracted to sugary drinks",
+      "Stay calm and move slowly away from a bee — swatting triggers attack",
+      "Check shoes and clothing before putting them on outdoors",
+      "Know your group members' allergy history before every trip"
+    ]
+  },
+  {
+    "id": "spider-bite",
+    "name": "Spider Bite",
+    "category": "Bites & Stings",
+    "severity": "Moderate",
+    "symptoms": [
+      "two small fang marks",
+      "immediate or delayed pain at bite site",
+      "redness and swelling",
+      "black widow: severe muscle cramps and pain spreading from bite (30-60 min after bite), sweating, nausea, rigid abdomen",
+      "brown recluse: expanding bulls-eye lesion, blister that becomes a necrotic ulcer over days",
+      "headache, nausea, fever in moderate to severe envenomation"
+    ],
+    "immediateActions": [
+      "Stay calm and limit movement — this slows venom spread",
+      "Try to identify or photograph the spider without getting bitten again",
+      "Clean the wound with soap and water",
+      "Apply a cold pack to reduce pain and swelling"
+    ],
+    "treatments": [
+      {
+        "id": "spider-t1",
+        "step": 1,
+        "description": "Wash the bite area thoroughly with soap and water. Apply antiseptic.",
+        "materials": ["soap", "water", "antiseptic"],
+        "notes": null
+      },
+      {
+        "id": "spider-t2",
+        "step": 2,
+        "description": "Apply a cold pack wrapped in cloth to the bite site for 20 minutes at a time to reduce pain and slow venom absorption.",
+        "materials": ["cold pack or ice in cloth"],
+        "notes": null
+      },
+      {
+        "id": "spider-t3",
+        "step": 3,
+        "description": "Immobilize and elevate the affected limb. Mark the edge of any redness or swelling with a pen and record the time to track spread.",
+        "materials": ["pen"],
+        "notes": null
+      },
+      {
+        "id": "spider-t4",
+        "step": 4,
+        "description": "For black widow bites with muscle cramps: ibuprofen and muscle relaxants if available. Antivenom exists — evacuation is the priority. For brown recluse: wound will develop slowly; medical wound care and possible antibiotic treatment required.",
+        "materials": ["ibuprofen"],
+        "notes": "Most spider bites in the US are not from dangerous species. If uncertain, treat as moderate and monitor closely."
+      }
+    ],
+    "warningSigns": [
+      "Severe spreading muscle cramps, rigid abdomen, sweating (black widow envenomation)",
+      "Expanding necrotic wound — skin turning dark and dying (brown recluse)",
+      "Difficulty breathing or swallowing",
+      "Systemic symptoms: high fever, seizures, altered consciousness"
+    ],
+    "whenToEvacuate": "Evacuate for confirmed or suspected black widow or brown recluse bites, significant systemic symptoms, or expanding necrotic wound.",
+    "preventionTips": [
+      "Shake out shoes, clothing, and sleeping bags before use",
+      "Wear gloves when moving logs, rocks, or debris",
+      "Check inside dark dry spaces — black widows favor wood piles and outhouses",
+      "Use a headlamp when moving around camp at night",
+      "Keep the tent zipped closed at all times"
+    ]
+  },
+  {
+    "id": "puncture-wound",
+    "name": "Puncture Wound",
+    "category": "Wounds",
+    "severity": "Moderate",
+    "symptoms": [
+      "small entry wound",
+      "bleeding (often minimal despite depth)",
+      "pain at wound site",
+      "possible object still embedded",
+      "bruising around wound"
+    ],
+    "immediateActions": [
+      "Do NOT remove deeply embedded objects — they may be controlling bleeding",
+      "Control surface bleeding with gentle pressure around (not on) an embedded object",
+      "Do NOT close or seal a puncture wound — it needs to drain",
+      "Clean the wound thoroughly with irrigation"
+    ],
+    "treatments": [
+      {
+        "id": "punct-t1",
+        "step": 1,
+        "description": "If an object is embedded: stabilize it in place with bulky padding on either side and bandage around it. Do not remove it — it may be preventing major bleeding.",
+        "materials": ["bulky padding", "bandage", "tape"],
+        "notes": "Only remove embedded objects if they are very shallow, small, and not near the eye, chest, or abdomen"
+      },
+      {
+        "id": "punct-t2",
+        "step": 2,
+        "description": "If no object is embedded: irrigate forcefully with clean water using a syringe or squeeze bottle. The narrow channel is impossible to clean without pressure irrigation.",
+        "materials": ["clean water", "irrigation syringe or squeeze bottle"],
+        "notes": "A plastic bag with a pinhole makes an effective improvised irrigation syringe"
+      },
+      {
+        "id": "punct-t3",
+        "step": 3,
+        "description": "Do NOT close the wound. Leave it open to drain. Apply a loose non-occlusive dressing.",
+        "materials": ["non-stick dressing", "loose bandage"],
+        "notes": "Closing a puncture wound traps bacteria and dramatically increases infection risk"
+      },
+      {
+        "id": "punct-t4",
+        "step": 4,
+        "description": "Monitor daily for infection: increasing redness, warmth, swelling, pus, or red streaking from the wound. Change dressing daily.",
+        "materials": ["antiseptic", "fresh dressing"],
+        "notes": "Puncture wounds have high infection risk due to depth and difficulty cleaning — tetanus risk is also elevated"
+      }
+    ],
+    "warningSigns": [
+      "Red streaking spreading from wound (cellulitis or blood poisoning — urgent)",
+      "Pus, increasing warmth, and swelling after 24-48 hours",
+      "Wound in chest or abdomen — risk of internal organ injury",
+      "Numbness or inability to move below the wound (nerve or tendon involvement)",
+      "Puncture from an animal or human bite — high infection risk requiring antibiotics"
+    ],
+    "whenToEvacuate": "Evacuate for deeply embedded objects, wounds to the chest or abdomen, animal or human bites, signs of infection, or if tetanus vaccination is not current.",
+    "preventionTips": [
+      "Always wear footwear in camp — stepping on sticks and stakes is a common cause",
+      "Carry and use a walking stick to probe terrain ahead",
+      "Handle knives and sharp tools with care — cut away from the body",
+      "Keep camp tidy — tent stakes and wire are puncture hazards"
+    ]
+  },
+  {
+    "id": "seizure",
+    "name": "Seizure",
+    "category": "Trauma",
+    "severity": "Serious",
+    "symptoms": [
+      "sudden loss of consciousness",
+      "uncontrolled muscle jerking or convulsions",
+      "stiffening of the body",
+      "blank stare or unresponsiveness",
+      "confusion after the seizure (postictal state)",
+      "loss of bladder or bowel control",
+      "brief periods of confusion or staring (absence seizure)"
+    ],
+    "immediateActions": [
+      "Do NOT restrain the person or put anything in their mouth",
+      "Clear the area of hard and sharp objects that could cause injury",
+      "Cushion the head with something soft",
+      "Time the seizure — duration matters for medical assessment",
+      "After convulsions stop, place in recovery position to prevent choking"
+    ],
+    "treatments": [
+      {
+        "id": "seiz-t1",
+        "step": 1,
+        "description": "Protect from injury: move hard objects away, cushion the head, do not restrict movement. Stay with the person throughout.",
+        "materials": ["folded clothing or pack for head cushion"],
+        "notes": "Never put your fingers or any object in the mouth — this risks injury to you and broken teeth for them. The tongue cannot be swallowed."
+      },
+      {
+        "id": "seiz-t2",
+        "step": 2,
+        "description": "Time the seizure from start to finish. Note what happened: which body parts were involved, loss of consciousness, eye movement direction.",
+        "materials": [],
+        "notes": "This information is critical for medical personnel to determine seizure type and cause"
+      },
+      {
+        "id": "seiz-t3",
+        "step": 3,
+        "description": "After convulsions stop, place in the recovery position (on their side). Keep the airway open. The person will be confused and exhausted (postictal state) — reassure them calmly.",
+        "materials": [],
+        "notes": "Postictal confusion can last minutes to hours — this is normal and does not mean the seizure is continuing"
+      },
+      {
+        "id": "seiz-t4",
+        "step": 4,
+        "description": "If the person is a known epileptic, ask if they have rescue medication (such as diazepam). Follow their established care plan. If seizure was unprovoked and first-time, treat as unknown cause.",
+        "materials": ["prescribed rescue medication if available"],
+        "notes": null
+      }
+    ],
+    "warningSigns": [
+      "Seizure lasting more than 5 minutes (status epilepticus — life-threatening)",
+      "Seizure occurs in water — drowning risk is immediate",
+      "Person does not regain consciousness after convulsions stop",
+      "Second seizure follows without recovery in between",
+      "Seizure with head injury, fever, or after a recent head trauma"
+    ],
+    "whenToEvacuate": "Evacuate for any first-time seizure, seizure lasting more than 5 minutes, seizure in water, or failure to regain consciousness. Known epileptics who recover fully per their normal pattern may not require evacuation.",
+    "preventionTips": [
+      "Know if any group members have a seizure disorder before the trip",
+      "Ensure known epileptics have and carry their medication",
+      "Avoid seizure triggers: missed medication, sleep deprivation, alcohol, and extreme heat",
+      "Buddy system near water for anyone with a seizure history"
+    ]
+  },
+  {
+    "id": "cardiac-arrest",
+    "name": "Cardiac Arrest / CPR",
+    "category": "Trauma",
+    "severity": "Life-Threatening",
+    "symptoms": [
+      "sudden collapse",
+      "unresponsive to voice or touch",
+      "no normal breathing (absent or only gasping)",
+      "no pulse (may be checked at carotid artery in the neck)",
+      "blue or gray skin color",
+      "dilated pupils"
+    ],
+    "immediateActions": [
+      "Call for help loudly — assign someone to call 911 or activate emergency locator",
+      "Check for responsiveness: tap shoulders, shout",
+      "Check for normal breathing for no more than 10 seconds",
+      "If unresponsive and not breathing normally, begin CPR immediately",
+      "Send someone to get an AED if available — do not stop CPR to find one"
+    ],
+    "treatments": [
+      {
+        "id": "cpr-t1",
+        "step": 1,
+        "description": "Position the person on their back on a firm, flat surface. Kneel beside their chest.",
+        "materials": [],
+        "notes": null
+      },
+      {
+        "id": "cpr-t2",
+        "step": 2,
+        "description": "Chest compressions: place heel of hand on center of chest (lower half of breastbone). Place second hand on top, interlace fingers. Compress hard and fast — at least 2 inches deep, at least 100-120 compressions per minute. Allow full chest recoil between each compression.",
+        "materials": [],
+        "notes": "Push hard — effective compressions require significant force. Rib fractures are a known CPR complication but do not stop compressions."
+      },
+      {
+        "id": "cpr-t3",
+        "step": 3,
+        "description": "Rescue breaths (if trained and willing): after 30 compressions, tilt head back, lift chin, pinch nose, give 2 breaths over 1 second each — enough to see the chest rise. Return to compressions immediately. Ratio: 30 compressions : 2 breaths.",
+        "materials": ["CPR face shield if available"],
+        "notes": "Hands-only CPR (compressions without breaths) is acceptable and effective, especially for untrained bystanders or when a face shield is unavailable"
+      },
+      {
+        "id": "cpr-t4",
+        "step": 4,
+        "description": "If an AED is available: power it on and follow voice prompts exactly. Apply pads, clear the patient before each shock, and resume CPR immediately after each shock. Do not interrupt CPR while the AED is analyzing.",
+        "materials": ["AED if available"],
+        "notes": "The AED will tell you everything to do — trust the device. Every minute without defibrillation reduces survival by 10%."
+      },
+      {
+        "id": "cpr-t5",
+        "step": 5,
+        "description": "Continue CPR until: the person shows signs of life (breathing, movement), an AED advises no shock and person is breathing, a trained rescuer takes over, or you are physically unable to continue.",
+        "materials": [],
+        "notes": "Switch compressors every 2 minutes if possible — fatigue causes compression quality to drop rapidly"
+      }
+    ],
+    "warningSigns": [
+      "Agonal breathing (slow, gasping, irregular breaths) — this is not normal breathing; begin CPR",
+      "Absence of carotid pulse for more than 10 seconds"
+    ],
+    "whenToEvacuate": "Immediate evacuation is required. Cardiac arrest has near-zero wilderness survival without definitive care. Continue CPR until emergency services arrive or take over.",
+    "preventionTips": [
+      "All trip leaders should be current in CPR and first aid certification",
+      "Know the cardiac history of your group members before strenuous trips",
+      "Carry an AED on large group trips if available",
+      "Recognize warning signs before arrest: chest pain, left arm or jaw pain, sudden severe shortness of breath, extreme fatigue during mild exertion"
+    ]
+  },
+  {
+    "id": "shoulder-dislocation",
+    "name": "Shoulder Dislocation",
+    "category": "Musculoskeletal",
+    "severity": "Serious",
+    "symptoms": [
+      "severe shoulder pain",
+      "visibly deformed shoulder — squared off or with a bump below the normal shoulder contour",
+      "arm held close to the body and supported by the other arm",
+      "inability to move the shoulder",
+      "numbness or tingling down the arm",
+      "muscle spasm around the shoulder"
+    ],
+    "immediateActions": [
+      "Do not attempt to relocate the shoulder without training — improper reduction can fracture the humerus or damage nerves and blood vessels",
+      "Immobilize the arm in the position of comfort using a sling",
+      "Apply ice wrapped in cloth to reduce pain and swelling",
+      "Check and record circulation, sensation, and movement in the hand"
+    ],
+    "treatments": [
+      {
+        "id": "dislo-t1",
+        "step": 1,
+        "description": "Check CSM (Circulation, Sensation, Movement) in the hand: capillary refill, ability to feel light touch, ability to wiggle fingers. Document findings and recheck every 15 minutes.",
+        "materials": [],
+        "notes": "Loss of pulse or sensation in the hand is a vascular or nerve emergency"
+      },
+      {
+        "id": "dislo-t2",
+        "step": 2,
+        "description": "Immobilize with a sling and swathe: use a triangular bandage or improvised sling to support the arm across the chest, then bind the arm to the chest with a second wrap.",
+        "materials": ["triangular bandage or shirt", "safety pins or tape"],
+        "notes": null
+      },
+      {
+        "id": "dislo-t3",
+        "step": 3,
+        "description": "Apply ice or cold pack wrapped in cloth to reduce pain and swelling. Give ibuprofen for pain and inflammation.",
+        "materials": ["cold pack or ice in cloth", "ibuprofen"],
+        "notes": null
+      },
+      {
+        "id": "dislo-t4",
+        "step": 4,
+        "description": "Self-reduction (only if evacuation will be prolonged and the person is trained): the FARES method — lay patient on back, extend arm at 90° with elbow straight, apply gentle traction while slowly rotating externally and elevating. Stop if significant resistance is felt.",
+        "materials": [],
+        "notes": "Reduction is easier within the first 30 minutes before muscle spasm sets in. After 30 minutes, pain and spasm make field reduction much harder."
+      }
+    ],
+    "warningSigns": [
+      "Loss of radial pulse in the wrist (axillary artery injury)",
+      "Complete numbness or paralysis of the arm (axillary nerve injury)",
+      "Associated fracture — grinding sensation or visible bone (do not attempt reduction)"
+    ],
+    "whenToEvacuate": "Evacuate all dislocations for imaging and professional reduction. If evacuation is more than 6-8 hours away, field reduction by a trained individual is appropriate.",
+    "preventionTips": [
+      "Use trekking poles to reduce fall impact on the upper body",
+      "Avoid catching yourself on an outstretched arm during a fall — tuck and roll instead",
+      "Strengthen rotator cuff muscles before high-demand trips",
+      "Prior dislocation is the biggest risk factor — those with history should discuss preventive bracing with a doctor"
+    ]
+  },
+  {
+    "id": "near-drowning",
+    "name": "Near Drowning (Submersion)",
+    "category": "Environmental",
+    "severity": "Life-Threatening",
+    "symptoms": [
+      "coughing or gasping",
+      "difficulty breathing or no breathing",
+      "blue lips or fingertips",
+      "altered consciousness or unresponsiveness",
+      "water expelled from mouth or nose",
+      "vomiting",
+      "extreme fatigue and weakness",
+      "hypothermia signs if water was cold"
+    ],
+    "immediateActions": [
+      "Remove the person from the water safely — do not become a victim yourself",
+      "Call for emergency help immediately",
+      "If unresponsive and not breathing, begin CPR immediately — do not wait",
+      "All submersion victims require medical evaluation even if they appear to have recovered"
+    ],
+    "treatments": [
+      {
+        "id": "drown-t1",
+        "step": 1,
+        "description": "Ensure scene safety before entering water. Use a rope, clothing, or floating object to reach the victim without entering if possible — a panicking victim can pull a rescuer under.",
+        "materials": ["rope", "throw bag", "floating object"],
+        "notes": "Reach, throw, row, then go — attempt passive rescue before entering the water"
+      },
+      {
+        "id": "drown-t2",
+        "step": 2,
+        "description": "If unresponsive and not breathing: begin CPR immediately. For drowning, give 5 rescue breaths first before starting compressions — hypoxia is the primary problem.",
+        "materials": ["CPR face shield if available"],
+        "notes": "Do not waste time trying to drain water from the lungs — it is ineffective. Begin CPR immediately."
+      },
+      {
+        "id": "drown-t3",
+        "step": 3,
+        "description": "If breathing: place in recovery position on their side to allow water and vomit to drain. Monitor breathing continuously — respiratory status can deteriorate rapidly in the hours after submersion.",
+        "materials": [],
+        "notes": "Secondary drowning (delayed pulmonary edema) can occur 1-24 hours after a submersion event — all victims need hospital evaluation"
+      },
+      {
+        "id": "drown-t4",
+        "step": 4,
+        "description": "Treat for hypothermia if the water was cold — remove wet clothing, insulate, and provide warmth. Cold water submersion victims may survive longer without oxygen due to the mammalian dive reflex.",
+        "materials": ["dry clothing", "sleeping bag", "space blanket"],
+        "notes": "Hypothermic cardiac arrest from cold water: 'not dead until warm and dead' — continue CPR until rewarmed"
+      }
+    ],
+    "warningSigns": [
+      "Any period of unconsciousness during or after submersion",
+      "Persistent coughing, shortness of breath, or gurgling chest sounds after recovery (secondary drowning)",
+      "Altered mental status after apparent recovery",
+      "Suspected spinal injury — diving or fall into water"
+    ],
+    "whenToEvacuate": "All submersion victims require hospital evaluation regardless of apparent recovery. Secondary drowning can be fatal hours after the event.",
+    "preventionTips": [
+      "Always wear a life jacket during water activities — including canoe, kayak, and raft trips",
+      "Never swim alone — always use the buddy system",
+      "Know your swimming ability and respect currents and cold water",
+      "Cold water shock can cause involuntary gasping and muscle failure within 1 minute — even strong swimmers can drown",
+      "All leaders should be water rescue trained for trips near water"
+    ]
+  }
+]

@@ -1,0 +1,989 @@
+[
+  {
+    "id": "fire",
+    "title": "Fire",
+    "icon": "flame.fill",
+    "summary": "Starting, maintaining, and safely extinguishing fire in the wilderness.",
+    "tags": ["fire", "warmth", "signaling", "cooking"],
+    "subtopics": [
+      {
+        "id": "fire-starting",
+        "title": "Starting Fire",
+        "icon": "flame",
+        "summary": "Methods to start fire with and without modern tools.",
+        "tags": ["fire", "ignition"],
+        "subtopics": [],
+        "articles": [
+          {
+            "id": "fire-bow-drill",
+            "title": "Bow Drill Technique",
+            "heroSymbol": "flame.fill",
+            "heroColor": "orange",
+            "content": "## Bow Drill Fire Starting\n\nThe bow drill is one of the most reliable primitive fire-starting methods.\n\n## Materials Needed\n\n- Fireboard (dry softwood like cedar, willow, or cottonwood)\n- Spindle (same wood as fireboard, straight and dry)\n- Bow (flexible branch with paracord or natural cordage)\n- Handhold (hardwood with a depression to hold spindle)\n- Tinder bundle (dry grass, cattail fluff, birch bark)\n\n## Steps\n\n- Carve a small depression in the fireboard and a notch leading to a collection point\n- Create a socket in the handhold slightly larger than the spindle top\n- String your bow with cord that has slight slack\n- Loop the spindle once through the bowstring\n- Position the spindle in the fireboard depression, apply downward pressure with handhold\n- Bow back and forth in long, smooth strokes maintaining steady pressure\n- Continue until smoke increases and a coal forms in the notch\n- Tap the coal into your tinder bundle, fold the bundle, and blow gently until flames appear\n\n## Tips for Success\n\n- Wood must be completely dry — test by pressing thumbnail; it should not compress\n- Keep strokes long and even, not fast and short\n- Maintain consistent downward pressure throughout\n- The notch should be cut to about 1/8 of the depression circle\n\n**Warning:** Always prepare a fire site before starting — clear a 10-foot area of debris.",
+            "illustrations": [
+              {
+                "id": "bow-drill-kit",
+                "symbol": "arrow.2.circlepath",
+                "caption": "Bow drill kit: spindle, fireboard, bow, and hardwood handhold. All wood must be completely dry — test with thumbnail.",
+                "colors": ["brown", "orange"],
+                "afterHeading": "Materials Needed",
+                "imageUrl": "https://www.survivalfrog.com/cdn/shop/products/Bow_Drill_01_grande.jpg?v=1633101899"
+              },
+              {
+                "id": "bow-drill-coal",
+                "symbol": "smoke.fill",
+                "caption": "A glowing coal forms in the notch from friction heat. Tap carefully into tinder bundle and blow gently into flame.",
+                "colors": ["orange", "red"],
+                "afterHeading": "Steps",
+                "imageUrl": "https://wildernessawareness.org/wp-content/uploads/2023/01/Bowdrill1_Email-Website-1024x576.png"
+              }
+            ],
+            "tags": ["fire", "primitive", "bow drill", "friction fire"],
+            "difficulty": "Advanced",
+            "priority": "Medium"
+          },
+          {
+            "id": "fire-flint-steel",
+            "title": "Flint and Steel",
+            "heroSymbol": "sparkles",
+            "heroColor": "yellow",
+            "content": "## Flint and Steel Fire Starting\n\nOne of the oldest reliable methods, requiring practice but very effective.\n\n## Materials\n\n- Hard rock (flint, chert, quartzite, or obsidian)\n- High-carbon steel striker\n- Char cloth or amadou (tinder fungus)\n- Tinder bundle\n\n## Steps\n\n- Hold the flint firmly with your non-dominant hand, sharp edge facing upward\n- Place char cloth on top of the flint to catch sparks\n- Strike the steel downward along the flint edge at a 30-45 degree angle\n- Sparks should land on the char cloth\n- Once char cloth glows orange, fold it into your tinder bundle\n- Blow gently until flames emerge\n\n## Identifying Good Flint\n\n- Glassy appearance\n- Conchoidal (shell-like) fracture pattern\n- Strikes produce bright sparks\n- Found near riverbeds and limestone formations",
+            "illustrations": [
+              {
+                "id": "flint-strike",
+                "symbol": "bolt.fill",
+                "caption": "Strike high-carbon steel at 30–45° down along the flint edge. Sparks reach over 2,000°F — direct them onto char cloth.",
+                "colors": ["yellow", "orange"],
+                "afterHeading": "Steps",
+                "imageUrl": "https://source.unsplash.com/-zI5SUBdbwg/800x600"
+              },
+              {
+                "id": "flint-rock",
+                "symbol": "cube.fill",
+                "caption": "Good flint is glassy with a shell-like (conchoidal) fracture. Look for it near riverbeds and limestone outcrops.",
+                "colors": ["gray", "brown"],
+                "afterHeading": "Identifying Good Flint",
+                "imageUrl": "https://source.unsplash.com/SNvPpzED0ls/800x600"
+              }
+            ],
+            "tags": ["fire", "flint", "steel", "primitive"],
+            "difficulty": "Intermediate",
+            "priority": "Medium"
+          },
+          {
+            "id": "fire-modern",
+            "title": "Fire Starting with Modern Tools",
+            "heroSymbol": "flame.circle.fill",
+            "heroColor": "red",
+            "content": "## Modern Fire Starting Tools\n\nAlways carry reliable fire-starting tools as backup to primitive methods.\n\n## Priority Order\n\n- Waterproof lighter (most reliable)\n- Waterproof matches in sealed container\n- Ferrocerium rod (firesteel) — works when wet\n- Magnifying lens (only in sunlight)\n\n## Ferrocerium Rod Technique\n\n- Prepare dry tinder bundle first\n- Hold the rod against the tinder, angle the scraper to push rod rather than pull scraper\n- One firm scrape produces a shower of sparks at 3,000°F\n- Direct sparks onto the finest, driest tinder\n\n## Fire Lays\n\n- **Teepee fire:** Sticks leaning inward in a cone — great for getting fire started quickly\n- **Log cabin:** Stacked alternating logs — long-burning, good for cooking\n- **Star fire:** Logs pushed in from 4 directions — easy to manage, conserves wood\n- **Trench fire:** Dug into ground — reduces wind interference, harder to spot\n\n**Always:** Never leave a fire unattended. Extinguish completely with water and check coals are cool before leaving.",
+            "illustrations": [
+              {
+                "id": "ferro-rod",
+                "symbol": "bolt.circle.fill",
+                "caption": "Ferrocerium rod produces a shower of sparks at 3,000°F with a single firm scrape — works when wet, unlike matches.",
+                "colors": ["red", "orange"],
+                "afterHeading": "Ferrocerium Rod Technique",
+                "imageUrl": "https://source.unsplash.com/-zI5SUBdbwg/800x600"
+              },
+              {
+                "id": "fire-lay-teepee",
+                "symbol": "triangle.fill",
+                "caption": "Teepee fire lay: sticks leaning inward in a cone shape ignites quickly. Log cabin lay lasts longer for cooking.",
+                "colors": ["orange", "brown"],
+                "afterHeading": "Fire Lays",
+                "imageUrl": "https://source.unsplash.com/pgVVqQ4KTtA/800x600"
+              }
+            ],
+            "tags": ["fire", "lighter", "ferrocerium", "fire lay"],
+            "difficulty": "Basic",
+            "priority": "High"
+          }
+        ]
+      },
+      {
+        "id": "fire-safety",
+        "title": "Fire Safety",
+        "icon": "exclamationmark.shield.fill",
+        "summary": "Preventing wildfires and safely managing campfires.",
+        "tags": ["fire", "safety", "wildfire"],
+        "subtopics": [],
+        "articles": [
+          {
+            "id": "fire-extinguish",
+            "title": "Extinguishing a Fire Completely",
+            "heroSymbol": "drop.triangle.fill",
+            "heroColor": "blue",
+            "content": "## How to Fully Extinguish a Campfire\n\nA partially extinguished fire is one of the leading causes of wildfires.\n\n## The 'Drown, Stir, Feel' Method\n\n- **Drown:** Pour water slowly and thoroughly over all coals and embers\n- **Stir:** Stir the ashes and embers with a stick while adding more water\n- **Feel:** Place the back of your hand near (not in) the ash — should feel completely cold\n\n## If No Water Available\n\n- Scatter the ashes over a wide area\n- Cover with dirt and stir thoroughly\n- Never bury coals — they can smolder underground for days\n\n## Check Before You Leave\n\n- The fire pit should be cold to the touch\n- No smoke, steam, or smell of burning\n- Restore the site to its natural appearance",
+            "illustrations": [
+              {
+                "id": "drown-stir",
+                "symbol": "drop.fill",
+                "caption": "Pour water slowly while stirring. The back of your hand should feel completely cold — not just cool — before leaving.",
+                "colors": ["blue", "teal"],
+                "afterHeading": "The 'Drown, Stir, Feel' Method",
+                "imageUrl": "https://source.unsplash.com/WcLRMCA-TyI/800x600"
+              },
+              {
+                "id": "no-bury-coals",
+                "symbol": "exclamationmark.triangle.fill",
+                "caption": "Never bury coals in dirt — they can smolder underground for days and reignite. Scatter, then drench with water.",
+                "colors": ["orange", "red"],
+                "afterHeading": "If No Water Available",
+                "imageUrl": "https://source.unsplash.com/JvB7LC3591c/800x600"
+              }
+            ],
+            "tags": ["fire", "safety", "extinguish", "leave no trace"],
+            "difficulty": "Basic",
+            "priority": "Critical"
+          }
+        ]
+      },
+      {
+        "id": "fire-adverse",
+        "title": "Fire in Adverse Conditions",
+        "icon": "cloud.rain.fill",
+        "summary": "Starting and maintaining fire in wet, windy, and cold conditions.",
+        "tags": ["fire", "rain", "wind", "cold", "wet wood"],
+        "subtopics": [],
+        "articles": [
+          {
+            "id": "fire-wet-conditions",
+            "title": "Starting Fire with Wet Wood",
+            "heroSymbol": "cloud.rain.fill",
+            "heroColor": "blue",
+            "content": "## Starting Fire with Wet Wood\n\nRain, dew, and moisture are the most common fire-starting obstacles in the wilderness.\n\n## Finding Dry Fuel\n\n- Look under dense conifer canopy — lower dead branches stay dry in rain\n- Split logs expose dry inner wood even when the outside is soaked\n- Dead wood under overhanging rocks or fallen logs stays drier than open ground\n- Standing dead wood is drier than wood lying on the ground\n- Inner bark of dead trees is often dry despite a wet outer surface\n\n## Preparing Wet Tinder\n\n- Fine shavings from dry inner wood catch faster than bark\n- Birch bark contains oils that burn even when slightly damp\n- Pine pitch nodules (hardened sap on trunk) ignite in almost any condition\n- Cattail seed heads shed water and remain partially flammable\n- Dry dead grass from the center of clumps or under leaf litter\n\n## Fire Site Preparation\n\n- Build a platform of dry sticks to keep the fire off wet ground\n- A platform prevents moisture from wicking up into your fuel pile\n- Build a windbreak on three sides using logs or rocks\n- Prepare twice as much tinder and kindling as you think you need\n\n## Techniques\n\n- Start with the finest tinder and progress slowly to larger fuel\n- Feather sticks: carve curling shavings that stay attached to the stick — large surface area catches easily\n- Pine pitch firestarter: pack a ball of pitch around a twig end and light it — burns for several minutes even in rain\n- Lean a large split log over the growing fire to pre-dry it before adding it as fuel\n\n**Key rule:** Split everything. Wet wood is only wet on the outside.",
+            "tags": ["fire", "wet wood", "rain", "tinder", "feather stick"],
+            "difficulty": "Advanced",
+            "priority": "High"
+          },
+          {
+            "id": "fire-wind-cold",
+            "title": "Fire in Wind and Cold",
+            "heroSymbol": "wind",
+            "heroColor": "cyan",
+            "content": "## Fire in Wind and Cold\n\nCold and wind drain heat from a fire faster than it can build. Site selection and technique determine success.\n\n## Site Selection\n\n- Use natural windbreaks: rock faces, dense brush, ravine walls, or snowbanks\n- Never build directly against living trees\n- In open terrain, dig a Dakota fire hole — nearly windproof and low-profile\n\n## Dakota Fire Hole\n\n- Dig a main chamber about 12 inches wide and 12 inches deep\n- Dig a second angled tunnel connecting to the bottom of the first, opening upwind\n- The intake tunnel creates a natural draft that feeds the fire with fresh air\n- Works effectively in wind, produces less smoke, and is harder to spot\n- Effective down to extreme cold with the right fuel\n\n## Fuel Management in Cold\n\n- Cold wood contains less volatile gas — requires more heat to ignite than warm wood\n- Pre-warm small kindling by tucking it inside your jacket for a few minutes before use\n- Gather three times more wood than you think you need before lighting\n- Feed small pieces constantly in the early stages — resist adding large logs too early\n- Resinous woods (pine, spruce, fir) ignite more easily in cold than hardwoods\n\n## Protecting the Flame\n\n- Cup hands around the tinder bundle while blowing to shield it from wind\n- A piece of bark or a metal cup placed around the kindling blocks wind during ignition\n- Once established, wet and cold fuel can be added gradually as the fire produces its own heat\n\n## Troubleshooting\n\n- Yellow flickering flame with lots of smoke: insufficient air or wet fuel\n- Fire going out repeatedly: fuel added too fast before the fire is established\n- Fix: reduce fuel size, allow more air, re-establish with dry fine tinder\n\n**If a spot is not working after three attempts, move 10 feet and start fresh.**",
+            "tags": ["fire", "wind", "cold", "Dakota fire hole", "winter"],
+            "difficulty": "Advanced",
+            "priority": "High"
+          }
+        ]
+      }
+    ],
+    "articles": []
+  },
+  {
+    "id": "shelter",
+    "title": "Shelter",
+    "icon": "house.fill",
+    "summary": "Building emergency shelters to protect from exposure.",
+    "tags": ["shelter", "survival", "warmth", "weather"],
+    "subtopics": [
+      {
+        "id": "shelter-natural",
+        "title": "Natural Shelters",
+        "icon": "tree.fill",
+        "summary": "Using the natural environment for quick shelter.",
+        "tags": ["shelter", "natural", "quick"],
+        "subtopics": [],
+        "articles": [
+          {
+            "id": "shelter-lean-to",
+            "title": "Lean-To Shelter",
+            "heroSymbol": "house.fill",
+            "heroColor": "brown",
+            "content": "## Building a Lean-To Shelter\n\nThe lean-to is the simplest and fastest emergency shelter to build.\n\n## Site Selection\n\n- Position with back to prevailing wind\n- Avoid low spots where cold air and water collect\n- Look up — remove dead branches (widow makers)\n- Avoid lone tall trees in open areas (lightning risk)\n\n## Construction\n\n- Find two trees 7-8 feet apart\n- Lash a ridgepole horizontally between the trees at shoulder height\n- Lean branches/sticks at 45 degrees against the ridgepole\n- Layer debris, bark, or pine boughs from bottom to top like shingles (4-6 inches thick)\n- Build a debris floor 4-6 inches deep for insulation from cold ground\n\n## Improving the Lean-To\n\n- Add side walls at 45 degrees to block wind\n- Build a fire reflector wall of green logs opposite the opening\n- Size the shelter only as large as needed — smaller retains body heat better\n\n**Key principle:** The shelter should be just big enough to hold you — every extra cubic foot of air takes more body heat to warm.",
+            "illustrations": [
+              {
+                "id": "lean-to-site",
+                "symbol": "wind",
+                "caption": "Position the lean-to back to prevailing wind. Avoid valley bottoms where cold air pools and lightning-prone lone trees.",
+                "colors": ["brown", "teal"],
+                "afterHeading": "Site Selection",
+                "imageUrl": "https://source.unsplash.com/pMBoh00wf6s/800x600"
+              },
+              {
+                "id": "lean-to-build",
+                "symbol": "rectangle.split.3x1.fill",
+                "caption": "Layer branches at 45° from ridgepole, overlapping like shingles from bottom up. Minimum 4–6 inches thick for rain protection.",
+                "colors": ["brown", "green"],
+                "afterHeading": "Construction",
+                "imageUrl": "https://source.unsplash.com/mEqXkgf34Ew/800x600"
+              }
+            ],
+            "tags": ["shelter", "lean-to", "quick build"],
+            "difficulty": "Basic",
+            "priority": "Critical"
+          },
+          {
+            "id": "shelter-debris-hut",
+            "title": "Debris Hut",
+            "heroSymbol": "leaf.fill",
+            "heroColor": "green",
+            "content": "## Building a Debris Hut\n\nThe debris hut can maintain a warm interior even without fire — relying on body heat.\n\n## Construction\n\n- Lay a ridgepole from ground to a fork or stump, long enough for your body plus 18 inches\n- Create ribbing by leaning sticks along both sides of the ridgepole\n- Fill in with smaller sticks and branches to create a lattice\n- Pile debris (leaves, ferns, pine needles) on top — at least 3 feet thick on all sides\n- Build a debris pile inside for bedding (at least 4 inches, ideally 12)\n- Stuff the entrance with debris or your pack\n\n## Sizing\n\n- Width: just wide enough to roll over inside\n- Length: just long enough to fit you fully inside\n- Test: lie inside and check that you cannot sit up — if you can, it's too big\n\n## Heat Retention\n\n- A properly built debris hut will be 20-30°F warmer than outside\n- Body heat alone is sufficient in most survival situations",
+            "illustrations": [
+              {
+                "id": "debris-hut-frame",
+                "symbol": "arrow.up.and.line.horizontal.and.arrow.down",
+                "caption": "Ridgepole from ground to a fork support. Ribs lean along both sides to form the lattice before debris piling begins.",
+                "colors": ["green", "brown"],
+                "afterHeading": "Construction",
+                "imageUrl": "https://source.unsplash.com/fnPPObbXXvo/800x600"
+              },
+              {
+                "id": "debris-hut-sizing",
+                "symbol": "person.fill",
+                "caption": "Build small: if you can sit up inside, it's too big. Every extra cubic foot of air space steals your body heat.",
+                "colors": ["teal", "green"],
+                "afterHeading": "Sizing",
+                "imageUrl": "https://source.unsplash.com/lHs2IZQTx5Y/800x600"
+              }
+            ],
+            "tags": ["shelter", "debris hut", "insulation", "no fire"],
+            "difficulty": "Intermediate",
+            "priority": "High"
+          }
+        ]
+      },
+      {
+        "id": "shelter-winter",
+        "title": "Winter Shelters",
+        "icon": "snowflake",
+        "summary": "Snow caves, quinzhees, and cold-weather shelter techniques.",
+        "tags": ["shelter", "winter", "snow", "cold"],
+        "subtopics": [],
+        "articles": [
+          {
+            "id": "shelter-snow-cave",
+            "title": "Building a Snow Cave",
+            "heroSymbol": "snowflake",
+            "heroColor": "cyan",
+            "content": "## Building a Snow Cave\n\nA snow cave can be 30–40°F warmer than outside air temperature and requires no equipment to build.\n\n## Requirements\n\n- A stable snow slope or drift at least 5–6 feet deep\n- Snow that has settled and consolidated — not fresh powder\n- A digging tool: stick, pot, or hands as a last resort\n\n## Construction\n\n- Select a slope of 30–45 degrees — steep enough to allow a raised sleeping platform inside\n- Dig horizontally into the slope, then angle upward to hollow out an interior above the entrance\n- Carve the interior dome-shaped to prevent drips from forming on a flat ceiling\n- Create a raised sleeping platform higher than the entrance — cold air sinks and pools at the lower entrance level\n- Poke a ventilation hole through the ceiling with a stick before sealing the entrance\n- Keep the entrance small — just large enough to crawl through\n- Mark the entrance with a ski, pole, or stick so rescuers or companions can find it after snowfall\n\n## Interior Setup\n\n- Keep all gear off the snow floor — use a sleeping pad, branches, or pack as insulation\n- Leave your digging tool inside in case of collapse\n- Never let interior temperature exceed 32°F — a melting interior weakens the structure\n- Check ventilation hole regularly and keep it clear\n\n## Recognizing Good Snow\n\n- Good: firm, compacted, holds shape when squeezed like a snowball\n- Poor: very powdery with no structure, or hard ice with visible layering that may collapse\n\n**Always mark your snow cave entrance and ventilation hole. Rescuers have walked past occupied snow caves.**",
+            "tags": ["shelter", "snow cave", "winter", "cold weather"],
+            "difficulty": "Intermediate",
+            "priority": "High"
+          },
+          {
+            "id": "shelter-quinzhee",
+            "title": "Building a Quinzhee",
+            "heroSymbol": "circle.dotted",
+            "heroColor": "blue",
+            "content": "## Building a Quinzhee\n\nA quinzhee is a hollowed snow mound — the best option when no suitable slope exists for a snow cave.\n\n## Snow Cave vs. Quinzhee\n\n- Snow cave: dug into an existing slope — faster, requires deep consolidated snow\n- Quinzhee: pile and hollow — can be built on flat ground with any depth of snow, takes 2–4 hours\n\n## Construction\n\n- Pile snow into a dome approximately 8 feet wide and 6 feet tall\n- Critical step: push 12–15 sticks (each 6–8 inches long) into the pile from all sides before hollowing — these are your wall thickness guides\n- Allow the pile to sinter (harden) for at least 2 hours before hollowing — do not skip this\n- Hollow out from the entrance, working inward and upward\n- Stop digging when you hit a stick — that wall thickness is correct\n- Remove each stick from the inside as you reach it\n- Shape a domed interior with a raised sleeping platform\n- Poke a ventilation hole in the ceiling with a stick\n\n## Sintering\n\n- Sintering is the bonding of snow crystals under their own weight over time\n- Unsintered snow has little structural strength — the quinzhee will collapse while digging\n- Very cold weather (below -10°F) requires longer sintering — up to 3 hours\n- Test readiness: push your fist into the wall — it should resist, not sink\n\n## Efficiency Tips\n\n- Pile gear inside a tarp, cover with snow, then remove the gear — creates a ready-to-hollow interior\n- Two people working speeds construction significantly\n- Pack the exterior surface with a shovel after piling for added structural strength\n\n**The sticks save your life. Never hollow a quinzhee without placing them first.**",
+            "tags": ["shelter", "quinzhee", "snow", "winter", "cold weather"],
+            "difficulty": "Intermediate",
+            "priority": "High"
+          }
+        ]
+      },
+      {
+        "id": "shelter-improvised",
+        "title": "Improvised Shelters",
+        "icon": "rectangle.and.hand.point.up.left.fill",
+        "summary": "Tarp, poncho, and quick-build shelter configurations.",
+        "tags": ["shelter", "tarp", "poncho", "improvised"],
+        "subtopics": [],
+        "articles": [
+          {
+            "id": "shelter-tarp",
+            "title": "Tarp Shelter Configurations",
+            "heroSymbol": "rectangle.portrait.fill",
+            "heroColor": "teal",
+            "content": "## Tarp Shelter Configurations\n\nA single 8×10 tarp can be rigged in over a dozen configurations. These four cover most survival situations.\n\n## A-Frame\n\n- String a ridgeline between two trees at shoulder height\n- Drape the tarp over the ridgeline and stake all four corners to the ground\n- Angle both sides at roughly 45° to shed rain\n- Best all-around configuration: wind and rain protection on both sides\n- Lower the ridgeline for better rain and wind resistance; raise it for more interior space\n\n## Lean-To\n\n- Attach the high edge to a ridgeline or two trees at chest height\n- Stake the low edge to the ground angled away from you\n- Open front allows a fire to radiate heat inside\n- Best in calm, clear conditions — rain blows in from the open front\n\n## Plow Point\n\n- Stake one corner into the ground as the point\n- Raise the opposite corner to a tree at head height\n- Stake the remaining two corners out wide on each side\n- Excellent rain shedding, low profile, strong in wind\n- Orient the pointed end into the prevailing wind\n\n## Ridgeline with Raised Floor\n\n- Rig an A-frame but leave extra tarp material on each side\n- Fold and stake the excess upward and outward to create raised edges\n- Keeps the sleeping area dry when ground is wet or flooded\n\n## General Tips\n\n- Always orient the closed or lowest end toward the prevailing wind\n- Pull ridgelines taut — a loose tarp flaps in wind and sheds rain poorly\n- Guy-lines at 45° from each corner add stability in strong wind\n\n**A well-pitched tarp provides equivalent protection to most tents in non-winter conditions.**",
+            "tags": ["shelter", "tarp", "A-frame", "lean-to", "rain"],
+            "difficulty": "Basic",
+            "priority": "High"
+          },
+          {
+            "id": "shelter-poncho",
+            "title": "Poncho Shelter",
+            "heroSymbol": "person.and.background.dotted",
+            "heroColor": "green",
+            "content": "## Poncho Shelter\n\nA military-style poncho is one of the most versatile emergency shelter materials available and is always on your body when you need it.\n\n## Quick Lean-To\n\n- Snap the hood shut\n- Tie cordage through the corner grommets\n- Attach two corners to trees or a ridgeline at chest height\n- Stake the remaining two corners to the ground angled away from wind\n- Can be erected in under 5 minutes\n\n## A-Frame Hooch\n\n- Attach a ridgeline through the hood opening or the center snap-loop\n- Pull taut between two trees at waist height\n- Stake all four corners to the ground at a 45° angle\n- Smaller interior than a full tarp but complete rain protection on both sides\n\n## Ground Sheet\n\n- Spread flat beneath your sleeping area to block ground moisture and cold\n- Snap two ponchos together for larger coverage with a partner\n\n## Augmenting with Natural Materials\n\n- Add debris walls on the sides of a poncho lean-to to block wind\n- Lay pine boughs or debris over the poncho for extra insulation in cold\n- A debris pile against the back of a poncho lean-to dramatically increases warmth retention\n\n## Field Expedient Litter\n\n- Snap two ponchos together with poles threaded through each side\n- Creates a stretcher capable of carrying a casualty\n- Poles can be cut branches, tent poles, or trekking poles\n\n**Military-spec ponchos handle conditions that most cheap emergency ponchos cannot — worth the weight for extended trips.**",
+            "tags": ["shelter", "poncho", "lean-to", "improvised", "quick build"],
+            "difficulty": "Basic",
+            "priority": "High"
+          }
+        ]
+      }
+    ],
+    "articles": []
+  },
+  {
+    "id": "water",
+    "title": "Water",
+    "icon": "drop.fill",
+    "summary": "Finding, collecting, and purifying water in the wilderness.",
+    "tags": ["water", "hydration", "purification", "survival"],
+    "subtopics": [
+      {
+        "id": "water-finding",
+        "title": "Finding Water",
+        "icon": "location.magnifyingglass",
+        "summary": "Locating water sources in various environments.",
+        "tags": ["water", "finding", "sources"],
+        "subtopics": [],
+        "articles": [
+          {
+            "id": "water-sources",
+            "title": "Water Sources in the Wild",
+            "heroSymbol": "drop.fill",
+            "heroColor": "blue",
+            "content": "## Finding Water in the Wilderness\n\n## The Rule of Threes\n\nA person can survive approximately 3 days without water. Water is your top priority after immediate safety.\n\n## Natural Indicators\n\n- **Animal trails:** Converging trails often lead downhill to water\n- **Birds:** Many birds fly to water at dawn and dusk — follow their direction\n- **Insects:** Bees are always within 1 mile of water; mosquitoes indicate nearby standing water\n- **Vegetation:** Willows, cottonwoods, cattails indicate water nearby\n- **Topography:** Water collects in valleys, ravines, and at the base of cliffs\n\n## Collecting Dew\n\n- Tie absorbent cloth around ankles and walk through vegetation before sunrise\n- Wring cloth into container\n- Can collect significant amounts in humid areas\n\n## Solar Still\n\n- Dig a bowl-shaped hole in moist soil\n- Place vegetation in the hole\n- Put a container in the center\n- Cover with plastic sheet, sealed at edges\n- Place small stone in center to create a drip point\n- Condensation drips into container — produces small amounts\n\n## Snow and Ice\n\n- Never eat snow directly — lowers core body temperature\n- Melt snow before drinking\n- Ice from frozen lakes is generally safer than snow (more compact)",
+            "illustrations": [
+              {
+                "id": "water-indicators",
+                "symbol": "bird.fill",
+                "caption": "Birds converge on water at dawn and dusk. Follow their flight direction. Bees are always within 1 mile of water.",
+                "colors": ["blue", "teal"],
+                "afterHeading": "Natural Indicators",
+                "imageUrl": "https://source.unsplash.com/WcLRMCA-TyI/800x600"
+              },
+              {
+                "id": "solar-still",
+                "symbol": "sun.and.horizon.fill",
+                "caption": "Solar still: plastic sheet over a vegetation-filled pit, stone in center. Condensation drips into a container below.",
+                "colors": ["yellow", "orange"],
+                "afterHeading": "Solar Still",
+                "imageUrl": "https://source.unsplash.com/L8p9qMMiCWs/800x600"
+              },
+              {
+                "id": "snow-melt",
+                "symbol": "snowflake",
+                "caption": "Never eat snow directly — the energy to melt it lowers core body temperature. Always melt before drinking.",
+                "colors": ["cyan", "blue"],
+                "afterHeading": "Snow and Ice",
+                "imageUrl": "https://source.unsplash.com/fnPPObbXXvo/800x600"
+              }
+            ],
+            "tags": ["water", "finding", "dew", "solar still"],
+            "difficulty": "Intermediate",
+            "priority": "Critical"
+          }
+        ]
+      },
+      {
+        "id": "water-purification",
+        "title": "Water Purification",
+        "icon": "checkmark.shield.fill",
+        "summary": "Making water safe to drink.",
+        "tags": ["water", "purification", "boiling", "filtration"],
+        "subtopics": [],
+        "articles": [
+          {
+            "id": "water-boiling",
+            "title": "Boiling Water",
+            "heroSymbol": "thermometer.medium",
+            "heroColor": "cyan",
+            "content": "## Boiling Water for Safety\n\nBoiling is the most reliable water purification method available without chemicals.\n\n## How to Boil\n\n- Bring water to a rolling boil (large bubbles)\n- At elevations below 6,500 ft: boil for 1 minute\n- At elevations above 6,500 ft: boil for 3 minutes (lower boiling point)\n- Allow to cool before drinking\n\n## Improvised Containers for Boiling\n\n- Metal cans, bottles, or cooking pots\n- Stone boiling: heat rocks in fire, drop into water-filled container\n  - Use dense, non-porous rocks — avoid river rocks (can explode)\n  - Use 8-10 hot rocks per liter of water\n\n## What Boiling Kills\n\n- All bacteria and viruses\n- Giardia and Cryptosporidium\n- Does NOT remove chemical contaminants, heavy metals, or salt",
+            "illustrations": [
+              {
+                "id": "rolling-boil",
+                "symbol": "bubbles.and.sparkles.fill",
+                "caption": "A rolling boil (large vigorous bubbles) is required — not just steaming. At altitude, boil for 3 minutes due to lower boiling point.",
+                "colors": ["blue", "cyan"],
+                "afterHeading": "How to Boil",
+                "imageUrl": "https://source.unsplash.com/910oq0T7QuY/800x600"
+              },
+              {
+                "id": "stone-boiling",
+                "symbol": "oval.fill",
+                "caption": "Stone boiling: heat 8–10 dense rocks in fire, drop into water container. Use non-porous rock — river rocks can explode.",
+                "colors": ["brown", "gray"],
+                "afterHeading": "Improvised Containers for Boiling",
+                "imageUrl": "https://source.unsplash.com/SNvPpzED0ls/800x600"
+              }
+            ],
+            "tags": ["water", "boiling", "purification"],
+            "difficulty": "Basic",
+            "priority": "Critical"
+          },
+          {
+            "id": "water-filtration",
+            "title": "Improvised Water Filtration",
+            "heroSymbol": "line.3.horizontal.decrease.circle.fill",
+            "heroColor": "teal",
+            "content": "## Improvised Water Filter\n\nFiltration removes particles and some contaminants but is NOT sufficient alone — always combine with boiling or chemical treatment.\n\n## Layered Filter Construction\n\nFrom top to bottom in a container with a hole:\n\n- Layer 1: Grass or cloth (removes large particles)\n- Layer 2: Sand (removes small particles)\n- Layer 3: Crushed charcoal from fire (removes chemicals, improves taste)\n- Layer 4: Fine gravel\n- Layer 5: Another grass/cloth layer\n\n## Using Commercial Filters\n\n- Squeeze filters (LifeStraw, Sawyer): filter directly while drinking\n- Always follow manufacturer guidelines for replacement\n\n## Chemical Treatment\n\n- Iodine tablets: 1 tablet per liter, wait 30 minutes (ineffective against Cryptosporidium)\n- Chlorine dioxide tablets: most effective chemical option, 4-hour wait for full effect\n- Do not use if pregnant or have thyroid conditions",
+            "illustrations": [
+              {
+                "id": "filter-layers",
+                "symbol": "square.stack.3d.down.forward.fill",
+                "caption": "Layer filter from top: cloth → sand → crushed charcoal → gravel → cloth. Always follow with boiling or chemical treatment.",
+                "colors": ["teal", "blue"],
+                "afterHeading": "Layered Filter Construction",
+                "imageUrl": "https://source.unsplash.com/aKkFYi8R-Go/800x600"
+              },
+              {
+                "id": "chemical-tablets",
+                "symbol": "pills.fill",
+                "caption": "Chlorine dioxide tablets are the most effective chemical treatment — but require a 4-hour wait for full Cryptosporidium kill.",
+                "colors": ["teal", "cyan"],
+                "afterHeading": "Chemical Treatment",
+                "imageUrl": null
+              }
+            ],
+            "tags": ["water", "filtration", "charcoal", "chemical treatment"],
+            "difficulty": "Intermediate",
+            "priority": "High"
+          }
+        ]
+      }
+    ],
+    "articles": []
+  },
+  {
+    "id": "navigation",
+    "title": "Navigation",
+    "icon": "safari.fill",
+    "summary": "Finding your way with and without modern tools.",
+    "tags": ["navigation", "compass", "stars", "map"],
+    "subtopics": [
+      {
+        "id": "nav-map-reading",
+        "title": "Map Reading",
+        "icon": "map.fill",
+        "summary": "Reading topographic maps and using grid references.",
+        "tags": ["navigation", "map", "topographic", "grid"],
+        "subtopics": [],
+        "articles": [
+          {
+            "id": "nav-topo-maps",
+            "title": "Reading Topographic Maps",
+            "heroSymbol": "map.fill",
+            "heroColor": "green",
+            "content": "## Reading Topographic Maps\n\nTopographic maps represent three-dimensional terrain in two dimensions using contour lines.\n\n## Contour Lines\n\n- Each line represents a constant elevation above sea level\n- Contour interval: the elevation difference between adjacent lines, shown in the map legend\n- Closely spaced lines = steep terrain\n- Widely spaced lines = gentle or flat terrain\n- Closed circles = hilltop (or depression if marked with inward-pointing tick marks)\n\n## Identifying Terrain Features\n\n- **Ridge:** Contour lines form a V or U shape pointing downhill\n- **Valley:** Contour lines form a V pointing uphill — a stream flows in the bottom of the V\n- **Saddle:** Two high points connected by a lower area — hourglass shape on the map\n- **Cliff:** Lines so closely spaced they appear as a single thick line\n- **Spur:** A ridge extending outward from higher ground — V pointing downhill\n\n## Map Orientation\n\n- Align the map so north on the map corresponds to north in the real world\n- Use a compass or known landmarks to orient\n- Once oriented, terrain features on the map match what you see in front of you\n\n## Map Scale\n\n- 1:24,000 (USGS standard): 1 inch = 2,000 feet — best detail for on-foot navigation\n- 1:50,000: good for planning, less detail for trail navigation\n- 1:100,000: suitable for vehicle routes, too coarse for hiking\n\n## Measuring Distance\n\n- Use the map's scale bar with a piece of string laid along your intended route\n- Flat map distance underestimates actual travel time when significant elevation gain is involved\n\n## Triangulation\n\n- Identify two or three visible landmarks you can also locate on the map\n- Take a bearing to each landmark with a compass\n- Draw lines from each landmark on the map along the back-bearing (bearing + 180°)\n- Where the lines intersect is your position\n\n**Practice reading contour lines at home before relying on them in the field.**",
+            "tags": ["navigation", "map", "topographic", "contour lines", "triangulation"],
+            "difficulty": "Intermediate",
+            "priority": "High"
+          },
+          {
+            "id": "nav-grid-references",
+            "title": "Grid References and Coordinates",
+            "heroSymbol": "grid",
+            "heroColor": "indigo",
+            "content": "## Grid References and Coordinate Navigation\n\n## UTM vs. Latitude/Longitude\n\n- **Latitude/Longitude:** Degrees, minutes, seconds — used by most consumer GPS devices and printed maps\n- **UTM (Universal Transverse Mercator):** Grid in meters — easier to calculate ground distances\n- Search and rescue teams typically use UTM; civilian hikers typically use lat/long\n\n## Reading a 6-Digit Grid Reference\n\n- Format: Easting (left to right) before Northing (bottom to top) — \"read right, then up\"\n- First 3 digits = position left to right on the map\n- Last 3 digits = position bottom to top on the map\n- Accuracy: approximately 100 meters on the ground\n\n## 8-Digit Grid Reference\n\n- 4 digits Easting, 4 digits Northing\n- Accuracy: approximately 10 meters\n- Used for SAR and military coordination\n\n## Communicating Your Position\n\n- State the grid zone designator before coordinates when communicating with rescue services\n- Confirm which datum is being used — WGS84 is the standard for all modern GPS devices\n- Write down your GPS coordinates before entering areas with poor satellite reception\n\n## GPS Navigation Basics\n\n- Mark waypoints for camp, water sources, and trailhead before leaving the trailhead\n- Track logs record where you have been — useful for backtracking accurately\n- GPS accuracy degrades in deep canyons and under dense tree canopy\n- Battery drain accelerates in cold — carry spare batteries or a power bank\n- Always carry a paper map and compass as a backup to any electronic device\n\n## Back-Azimuth\n\n- The back-azimuth is the return bearing from your destination to your starting point\n- Add 180° to your outbound bearing if it is less than 180°; subtract 180° if it is greater\n- Example: depart on bearing 045°, return on bearing 225°\n\n**Write your starting coordinates on paper before heading out — a dead GPS is useless without it.**",
+            "tags": ["navigation", "grid reference", "UTM", "GPS", "coordinates"],
+            "difficulty": "Intermediate",
+            "priority": "Medium"
+          }
+        ]
+      },
+      {
+        "id": "nav-natural",
+        "title": "Natural Navigation",
+        "icon": "sun.max.fill",
+        "summary": "Finding direction using the sun, stars, and natural indicators.",
+        "tags": ["navigation", "sun", "stars", "natural", "no compass"],
+        "subtopics": [],
+        "articles": [
+          {
+            "id": "nav-sun-navigation",
+            "title": "Navigating by the Sun",
+            "heroSymbol": "sun.max.fill",
+            "heroColor": "yellow",
+            "content": "## Navigating by the Sun\n\nThe sun is the most reliable daytime navigation tool available without equipment.\n\n## Sun Arc Rules (Northern Hemisphere)\n\n- The sun rises roughly in the east and sets roughly in the west — the exact point shifts with season\n- At solar noon, the sun is due south and at its highest point in the sky\n- In summer the sun tracks higher and further north; in winter it stays lower and further south\n\n## Shadow Stick Method\n\n- Push a straight stick (about 3 feet) vertically into level open ground\n- Mark the tip of the shadow with a stone or twig (Mark 1)\n- Wait 15–20 minutes\n- Mark the new shadow tip (Mark 2)\n- The line from Mark 1 to Mark 2 runs roughly west to east — Mark 1 is west, Mark 2 is east\n- A perpendicular line through that east-west line points north and south\n- Works at any time of day and in any season when the sun casts a shadow\n\n## Watch Method (Analog Watch)\n\n- In the Northern Hemisphere: point the hour hand directly at the sun\n- The midpoint between the hour hand and the 12 o'clock mark points roughly south\n- In the Southern Hemisphere: point the 12 o'clock mark at the sun; midpoint between 12 and the hour hand points north\n- Works best when the sun is at a lower angle in the sky (morning and afternoon)\n\n## Limitations\n\n- Accuracy decreases near midday when the sun is near its peak\n- Cloud cover that fully hides the sun eliminates these methods\n- Seasonal variation means sunrise and sunset are not precisely east and west\n\n## Maintaining Direction of Travel\n\n- Pick a distant, fixed landmark in your intended direction of travel\n- Walk toward it, then select the next landmark beyond it\n- This prevents the natural tendency to veer gradually left or right over distance\n\n**Combine with the shadow stick: take a bearing, walk for an hour, re-check alignment.**",
+            "tags": ["navigation", "sun", "shadow stick", "watch method", "no compass"],
+            "difficulty": "Basic",
+            "priority": "High"
+          },
+          {
+            "id": "nav-stars-navigation",
+            "title": "Navigating by Stars",
+            "heroSymbol": "sparkles",
+            "heroColor": "indigo",
+            "content": "## Navigating by Stars\n\nStars provide the most accurate natural navigation at night — they are fixed relative to true north, unlike a magnetic compass.\n\n## Finding Polaris (Northern Hemisphere)\n\n- Locate the Big Dipper (Ursa Major): seven bright stars in a dipper shape\n- The two stars forming the outer edge of the cup are the pointer stars (Dubhe and Merak)\n- Draw an imaginary line from the bottom pointer star through the top pointer star\n- Extend that line approximately five times the distance between the two pointer stars\n- The next moderately bright star in that direction is Polaris (the North Star)\n- Polaris sits within 1° of true north at all times — it does not rise or set\n\n## Confirming Polaris\n\n- Polaris is the tip of the handle of the Little Dipper (Ursa Minor)\n- It is the only star that does not appear to move during the night — all others rotate around it\n- It is a moderately bright star, not the brightest in the sky (a common misconception)\n\n## Southern Hemisphere: Southern Cross\n\n- Locate the Southern Cross (Crux): four stars forming a distinct cross\n- The long axis of the cross points toward the South Celestial Pole\n- Extend the long axis approximately 4.5 times its own length to find the pole — no bright star marks it\n- The two bright pointer stars (Alpha and Beta Centauri) nearby help confirm the cross's orientation\n\n## Using Stars to Maintain Direction\n\n- Identify Polaris, orient yourself, then choose a ground-level landmark in your direction of travel\n- Re-check your bearing every 30–60 minutes as stars appear to move across the sky\n- On a clear night, multiple reference stars on the horizon can serve as checkpoints\n\n## Estimating Time\n\n- Stars appear to rotate approximately 15° per hour around Polaris\n- The Big Dipper acts as a rough clock hand sweeping counterclockwise around Polaris through the night\n\n**Practice finding Polaris at home before you need it in the field.**",
+            "tags": ["navigation", "stars", "Polaris", "Big Dipper", "night navigation"],
+            "difficulty": "Intermediate",
+            "priority": "High"
+          }
+        ]
+      }
+    ],
+    "articles": [
+      {
+        "id": "nav-compass",
+        "title": "Using a Compass",
+        "heroSymbol": "safari.fill",
+        "heroColor": "indigo",
+        "content": "## Navigation with a Compass\n\n## Parts of a Baseplate Compass\n\n- Direction of travel arrow\n- Rotating bezel with 360° markings\n- Magnetic needle (red end points North)\n- Orienting arrow (non-magnetic)\n- Declination adjustment\n\n## Taking a Bearing\n\n- Point the direction of travel arrow at your target\n- Rotate the bezel until the orienting arrow aligns with the magnetic needle (red in the shed)\n- Read the bearing at the index line\n- Walk in the direction of travel while keeping needle in orienting arrow\n\n## Magnetic Declination\n\n- Declination is the difference between true north and magnetic north\n- In the US, varies from -20° to +20° by region\n- Check your map or compass for local declination and adjust accordingly\n\n## Without a Compass\n\n- **Shadow stick method:** Place stick in ground, mark shadow tip, wait 15 min, mark again — line from first to second mark points roughly east\n- **Watch method:** Point hour hand at sun; midpoint between hour hand and 12 is roughly south (northern hemisphere)\n- **North Star (Polaris):** Find the Big Dipper, use the outer edge of the cup to point to Polaris — true north",
+        "illustrations": [
+          {
+            "id": "compass-dial",
+            "symbol": "dial.medium.fill",
+            "caption": "Align the red magnetic needle over the orienting arrow (red in the shed). Read your bearing at the index line.",
+            "colors": ["indigo", "blue"],
+            "afterHeading": "Parts of a Baseplate Compass",
+            "imageUrl": "https://source.unsplash.com/0jFtlzieV48/800x600"
+          },
+          {
+            "id": "shadow-stick",
+            "symbol": "sun.max.fill",
+            "caption": "Shadow stick: mark two shadow tips 15 minutes apart. A line from first to second points roughly east — west is behind you.",
+            "colors": ["yellow", "orange"],
+            "afterHeading": "Without a Compass",
+            "imageUrl": "https://source.unsplash.com/L8p9qMMiCWs/800x600"
+          }
+        ],
+        "tags": ["navigation", "compass", "bearing", "north star"],
+        "difficulty": "Intermediate",
+        "priority": "High"
+      },
+      {
+        "id": "nav-lost",
+        "title": "What to Do When Lost",
+        "heroSymbol": "map.fill",
+        "heroColor": "orange",
+        "content": "## When You Are Lost: STOP\n\n## The STOP Protocol\n\n- **S — Stop:** Sit down. Panic causes bad decisions. Take a breath.\n- **T — Think:** When did you last know where you were? What landmarks do you remember?\n- **O — Observe:** Look for landmarks, water, trails, sun position. Listen for roads, water, people.\n- **P — Plan:** Make a decision based on your assessment. Stay or move?\n\n## Stay or Go?\n\n**Stay if:**\n- Someone knows your plan and expected return\n- You are injured or with inexperienced group members\n- Weather is deteriorating\n- You have adequate water and shelter materials\n\n**Move if:**\n- No one knows your plans\n- Water or shelter is unavailable at current location\n- You can see a known landmark or hear civilization\n\n## Signaling for Rescue\n\n- Three of anything is the universal distress signal (whistles, fires, reflections)\n- Signal mirror can be seen 10+ miles in sunlight\n- Stay in open areas where you can be seen from aircraft\n- Bright colors, smoke, and ground-to-air signals (large X or V in clearings)\n\n**Always tell someone your plans before going out.**",
+        "illustrations": [
+          {
+            "id": "stop-protocol",
+            "symbol": "hand.raised.fill",
+            "caption": "STOP — Stop, Think, Observe, Plan. Sit down before doing anything. Panic leads to wandering further from help.",
+            "colors": ["orange", "red"],
+            "afterHeading": "The STOP Protocol",
+            "imageUrl": "https://source.unsplash.com/pMBoh00wf6s/800x600"
+          },
+          {
+            "id": "signal-mirror",
+            "symbol": "rays",
+            "caption": "Signal mirror visible 10+ miles in sunlight. Flash toward aircraft — even if uncertain, keep flashing until it passes.",
+            "colors": ["yellow", "orange"],
+            "afterHeading": "Signaling for Rescue",
+            "imageUrl": "https://source.unsplash.com/eYbjGKCna28/800x600"
+          }
+        ],
+        "tags": ["navigation", "lost", "STOP", "signaling", "rescue"],
+        "difficulty": "Basic",
+        "priority": "Critical"
+      }
+    ]
+  },
+  {
+    "id": "food",
+    "title": "Food",
+    "icon": "fork.knife",
+    "summary": "Finding and preparing food in the wilderness safely.",
+    "tags": ["food", "foraging", "hunting", "nutrition"],
+    "subtopics": [
+      {
+        "id": "food-foraging",
+        "title": "Edible Plants",
+        "icon": "leaf.circle.fill",
+        "summary": "Identifying and safely eating wild plants.",
+        "tags": ["food", "plants", "foraging", "edible"],
+        "subtopics": [],
+        "articles": [
+          {
+            "id": "food-universal-edibility",
+            "title": "Universal Edibility Test",
+            "heroSymbol": "leaf.circle.fill",
+            "heroColor": "green",
+            "content": "## Universal Edibility Test\n\nUse this test when you cannot positively identify a plant and hunger is a serious concern. The process takes 24 hours.\n\n## Before Starting\n\n- Do not eat anything for 8 hours before the test\n- Test only one plant part at a time (leaf, root, seed, fruit are separate tests)\n- Have water available\n\n## The 8-Step Process\n\n- Step 1: Smell — Crush and smell. Strong unpleasant or almond odor = avoid\n- Step 2: Skin contact — Rub plant juice on inner wrist, wait 15 minutes for reaction\n- Step 3: Lip test — Touch plant to lips for 3 minutes. Any burning or tingling = stop\n- Step 4: Tongue test — Place on tongue tip for 15 minutes without swallowing\n- Step 5: Chew — Chew a small amount for 15 minutes without swallowing. Any reaction = spit out\n- Step 6: Swallow a small amount — wait 8 hours\n- Step 7: If no illness, eat a small handful — wait 8 hours\n- Step 8: If still no illness, the plant part is likely edible\n\n## Always Avoid\n\n- White or yellow berries (80% are toxic)\n- Plants with milky or discolored sap\n- Plants with shiny leaves\n- Spines, fine hairs, or thorns on the fruit\n- Bitter or soapy taste\n- Plants with umbrella-shaped flower clusters (many are deadly)\n\n**Note:** The UET does not detect all toxins. Always prefer positively identified edible plants.",
+            "illustrations": [
+              {
+                "id": "edibility-test-steps",
+                "symbol": "hand.point.up.left.fill",
+                "caption": "Skin contact test (Step 2): rub plant juice on the inner wrist. Any redness, burning, or swelling — do not proceed.",
+                "colors": ["green", "teal"],
+                "afterHeading": "The 8-Step Process",
+                "imageUrl": "https://source.unsplash.com/UIk6Q9JWDLI/800x600"
+              },
+              {
+                "id": "avoid-berries",
+                "symbol": "circle.dotted",
+                "caption": "Avoid white, yellow, and red berries unless positively identified. 80% of white and yellow berries in temperate zones are toxic.",
+                "colors": ["red", "orange"],
+                "afterHeading": "Always Avoid",
+                "imageUrl": "https://source.unsplash.com/Yr7uhmP6F30/800x600"
+              }
+            ],
+            "tags": ["food", "edibility test", "plants", "foraging"],
+            "difficulty": "Intermediate",
+            "priority": "High"
+          },
+          {
+            "id": "food-safe-plants",
+            "title": "Common Safe Wild Foods",
+            "heroSymbol": "leaf.fill",
+            "heroColor": "green",
+            "content": "## Reliably Identifiable Safe Wild Foods\n\n## Cattail (Typha)\n\n- Found near water; tall, cigar-shaped brown seed heads\n- Edible parts: young shoots (raw/cooked), green seed heads (boiled), pollen (flour substitute), roots (starch)\n- One of the most nutritious and identifiable wild foods\n\n## Dandelion (Taraxacum officinale)\n\n- Distinctive toothed leaves, hollow stems, yellow flowers\n- All parts edible: leaves (salad or cooked), roots (roasted as coffee substitute), flowers (raw)\n- Highest nutrition in young spring leaves\n\n## Pine Trees (Pinus)\n\n- Young green needles: steep in hot water for tea (high in Vitamin C)\n- Inner bark (cambium): scrape and eat raw or cook\n- Pine nuts (from certain species): high in calories and fat\n\n## Clover (Trifolium)\n\n- Distinctive three-leafed clusters\n- Young leaves and flowers edible raw or cooked\n- High in protein for a plant\n\n## Acorns\n\n- Must be leached to remove bitter tannins\n- Crack, grind into paste, soak in cold water for 24 hours changing water every few hours\n- Then use like flour or eat as mush",
+            "illustrations": [
+              {
+                "id": "cattail-id",
+                "symbol": "allergens.fill",
+                "caption": "Cattails: tall plants with a distinctive brown cigar-shaped seed head. Found near water — edible shoots, pollen, and starchy roots.",
+                "colors": ["brown", "green"],
+                "afterHeading": "Cattail (Typha)",
+                "imageUrl": "https://source.unsplash.com/tNsvCBzIJ-4/800x600"
+              },
+              {
+                "id": "pine-needles",
+                "symbol": "tree.fill",
+                "caption": "Pine needle tea is high in Vitamin C — steep young green needles in hot water. Inner bark (cambium) is also edible.",
+                "colors": ["green", "teal"],
+                "afterHeading": "Pine Trees (Pinus)",
+                "imageUrl": "https://source.unsplash.com/4JMDukrYYyk/800x600"
+              },
+              {
+                "id": "acorn-leach",
+                "symbol": "drop.circle.fill",
+                "caption": "Acorns must be leached: grind, soak in cold water 24 hours changing water every few hours to remove bitter tannins.",
+                "colors": ["brown", "orange"],
+                "afterHeading": "Acorns",
+                "imageUrl": "https://source.unsplash.com/aKkFYi8R-Go/800x600"
+              }
+            ],
+            "tags": ["food", "cattail", "dandelion", "pine", "wild edibles"],
+            "difficulty": "Basic",
+            "priority": "Medium"
+          }
+        ]
+      }
+    ],
+    "articles": []
+  },
+  {
+    "id": "signaling",
+    "title": "Signaling",
+    "icon": "antenna.radiowaves.left.and.right",
+    "summary": "Attracting rescuers and communicating your position.",
+    "tags": ["signaling", "rescue", "SOS", "mirror"],
+    "subtopics": [
+      {
+        "id": "signal-fire-smoke",
+        "title": "Fire & Smoke Signals",
+        "icon": "smoke.fill",
+        "summary": "Using fire and smoke to attract rescuers by day and night.",
+        "tags": ["signaling", "fire", "smoke", "rescue"],
+        "subtopics": [],
+        "articles": [
+          {
+            "id": "signal-fire-building",
+            "title": "Building a Signal Fire",
+            "heroSymbol": "flame.fill",
+            "heroColor": "orange",
+            "content": "## Building a Signal Fire\n\nA signal fire visible from aircraft requires preparation before you hear the aircraft — not after.\n\n## Site Selection\n\n- Open areas only: clearings, hilltops, lakeshores, beaches, ridgelines\n- Avoid tree cover that blocks visibility from the air\n- Higher elevation increases the distance from which a fire is visible\n- Prepare at least two signal fire sites in different directions to cover varying aerial approaches\n\n## Pre-Built Fire Lay\n\n- Build a teepee fire lay for rapid ignition\n- Prepare three signal fires in a triangle formation, 25–50 meters apart — three fires is the international distress signal\n- Cover pre-built fires with bark or boughs to keep tinder dry\n- Have a lit tinder bundle ready so fires can be ignited within 30 seconds of hearing an aircraft\n\n## Fuel for Maximum Visibility\n\n- Dry softwood produces tall, fast-starting flames — use as the base fuel\n- Resinous wood (pine, spruce, fir) burns with visible dark smoke\n- Keep a reserve fuel pile beside each fire for sustained burning\n- Prepare green vegetation separately for smoke production during daylight\n\n## When to Light\n\n- Light when you have confirmed the aircraft is approaching, not just in the area\n- Do not ignite all three fires simultaneously on the first sound — confirm direction first\n- Maintain fires for at least 30 minutes after an aircraft passes — it may be notifying others and circling back\n\n## Night Signal Fires\n\n- Flames are far more visible at night than smoke\n- Maximize flame height using dry split wood\n- Avoid green vegetation at night — it produces steam and suppresses flame height\n- A fire visible to a pilot at 1,000 feet altitude can be seen from 15+ miles in clear conditions\n\n**Build your signal fires as the first task after your shelter is secured.**",
+            "tags": ["signaling", "signal fire", "rescue", "aircraft", "distress"],
+            "difficulty": "Basic",
+            "priority": "High"
+          },
+          {
+            "id": "signal-smoke",
+            "title": "Smoke Signals",
+            "heroSymbol": "smoke.fill",
+            "heroColor": "gray",
+            "content": "## Smoke Signals\n\nSmoke is most effective for daytime signaling. Color contrast against the background determines visibility.\n\n## Smoke Color vs. Background\n\n- **Black smoke:** most visible against sky, snow, and light-colored terrain — use rubber, oil, or green vegetation over fire\n- **White smoke:** most visible against dark backgrounds like forest or dark rock — use damp green leaves, wet moss, or grass\n- General rule: use black smoke in open or snowy terrain; use white smoke in forested areas\n\n## Producing Black Smoke\n\n- Add green leafy vegetation over an established fire\n- Wet leaves layered over burning dry wood produce dark smoke reliably\n- Rubber or plastic (from vehicle tires or gear) produces thick black smoke visible for miles — use only if no other option\n- Pine boughs over a hot fire produce dark, visible smoke\n\n## Producing White Smoke\n\n- Bundle damp green ferns or moss over flames after the fire is established\n- Wet evergreen boughs draped over a fire create white-grey smoke\n- Dense grass matted over burning coals creates sustained white smoke output\n\n## The Blanket Method\n\n- Once smoke is established, repeatedly cover and uncover the fire with a tarp, space blanket, or jacket\n- Produce three distinct puffs with pauses between — the universal smoke distress pattern\n- Consistent puffs attract more attention than a continuous column\n\n## Atmospheric Conditions\n\n- Smoke rises less in cold, calm, humid conditions and stays low — less visible from aircraft\n- In hot, dry, windy conditions smoke rises and disperses quickly — increase fuel to compensate\n- Build signal fires on high ground to help smoke rise above terrain and tree level\n\n## Night Signaling\n\n- Smoke is invisible at night — switch to maximum flame height\n- Save green vegetation for daytime smoke; use dry split wood for night flames\n\n**In calm conditions, smoke from a signal fire can be visible to aircraft at altitude from over 50 miles away.**",
+            "tags": ["signaling", "smoke", "rescue", "black smoke", "white smoke"],
+            "difficulty": "Basic",
+            "priority": "High"
+          }
+        ]
+      }
+    ],
+    "articles": [
+      {
+        "id": "signal-ground-to-air",
+        "title": "Ground-to-Air Signals",
+        "heroSymbol": "antenna.radiowaves.left.and.right",
+        "heroColor": "orange",
+        "content": "## Ground-to-Air Signaling\n\n## Standard Symbols (use at least 10 feet in size)\n\n- **X** — Need medical assistance\n- **V** — Need help / rescue\n- **→** — Traveling in this direction\n- **F** — Need food and water\n- **LL** — All is well\n- **SOS** — International distress\n\n## Construction\n\n- Use high-contrast materials: rocks on snow, logs on sand, bright clothes\n- Place in open areas visible from air\n- Trample vegetation to create signals visible from above\n\n## Signal Mirror\n\n- Can be seen 10+ miles away in direct sunlight\n- Aim reflection by holding mirror near eye, create a V-shape with fingers at arm's length, put target in V\n- Flash toward aircraft even if unsure if seen\n\n## Three-Signal Rule\n\n- Three whistle blasts, three fires in triangle, three gunshots = universal distress signal\n- Space signals 1 minute apart, repeat every 3 minutes",
+        "illustrations": [
+          {
+            "id": "ground-symbols",
+            "symbol": "xmark.seal.fill",
+            "caption": "X = need medical help, V = need rescue, SOS = international distress. Make symbols at least 10 ft wide for aerial visibility.",
+            "colors": ["orange", "red"],
+            "afterHeading": "Standard Symbols (use at least 10 feet in size)",
+            "imageUrl": "https://source.unsplash.com/aU_w9gA_SMQ/800x600"
+          },
+          {
+            "id": "three-signal-rule",
+            "symbol": "speaker.wave.3.fill",
+            "caption": "Three of anything signals distress worldwide — three whistle blasts, three fires in a triangle, three gunshots.",
+            "colors": ["orange", "yellow"],
+            "afterHeading": "Three-Signal Rule",
+            "imageUrl": "https://source.unsplash.com/JvB7LC3591c/800x600"
+          }
+        ],
+        "tags": ["signaling", "ground-to-air", "mirror", "rescue"],
+        "difficulty": "Basic",
+        "priority": "High"
+      }
+    ]
+  },
+  {
+    "id": "tools",
+    "title": "Tools & Knots",
+    "icon": "wrench.and.screwdriver.fill",
+    "summary": "Essential knots, cordage, and improvised tools.",
+    "tags": ["knots", "cordage", "tools", "lashing"],
+    "subtopics": [
+      {
+        "id": "tools-lashing",
+        "title": "Lashing Techniques",
+        "icon": "link",
+        "summary": "Binding poles and branches to build shelters, stretchers, and tools.",
+        "tags": ["lashing", "cordage", "building", "knots"],
+        "subtopics": [],
+        "articles": [
+          {
+            "id": "lashing-square-diagonal",
+            "title": "Square and Diagonal Lashing",
+            "heroSymbol": "squareshape.split.2x2",
+            "heroColor": "brown",
+            "content": "## Square and Diagonal Lashing\n\nLashing lets you build strong structures without nails using only poles and cordage.\n\n## Materials\n\n- Paracord, natural cordage (inner bark, dogbane, stinging nettle), or rawhide\n- Straight, dry poles or branches\n- Pre-stretch all cordage before use on critical structures\n\n## Square Lashing\n\nUsed to join two poles at a right angle (90°).\n\n- Tie a clove hitch around one pole at the intersection\n- Wrap over the crosspiece, under the main pole, over the other side, and back — 3–4 full wraps\n- Take frapping turns between the poles (wrap in the gap, pulling each tight) — 2–3 fraps\n- Finish with a clove hitch on the crosspiece\n- Test: grip the lashing — poles should not rotate or shift\n\n## Diagonal Lashing\n\nUsed when poles cross at angles other than 90°, or when poles spring apart under tension.\n\n- Tie a timber hitch diagonally around both poles to draw them together\n- Wrap 3–4 turns on each diagonal axis, forming an X pattern\n- Take 2–3 frapping turns between the poles\n- Finish with a clove hitch\n- Better than square lashing for X-bracing under load\n\n## Common Mistakes\n\n- Under-tensioning wraps — each wrap must be pulled firm, not just the last one\n- Skipping frapping turns — fraps are what prevent rotation, not the wraps\n- Using a clove hitch to start diagonal lashing — use a timber hitch to pull poles together first\n\n## Uses\n\n- Square lashing: shelters, ladders, stretcher frames, tool extensions\n- Diagonal lashing: X-bracing, bipod supports, angled structures\n\n**Practice until you can complete either lashing in under 2 minutes.**",
+            "tags": ["lashing", "square lashing", "diagonal lashing", "cordage", "building"],
+            "difficulty": "Intermediate",
+            "priority": "Medium"
+          },
+          {
+            "id": "lashing-shear-tripod",
+            "title": "Shear and Tripod Lashing",
+            "heroSymbol": "triangle",
+            "heroColor": "brown",
+            "content": "## Shear and Tripod Lashing\n\nShear and tripod lashings create multi-leg structures that spread load and stand independently.\n\n## Shear Lashing\n\nUsed to join two parallel poles end-to-end to extend length, or to create an A-frame.\n\n- Lay two poles parallel side by side\n- Tie a clove hitch on one pole\n- Wrap loosely around both poles together: 6–8 wraps\n- Take 2–3 frapping turns in the gap between the poles\n- Finish with a clove hitch on the second pole\n- Splay the poles apart to form the A-frame — wraps allow rotation and tighten as load is applied\n\n## Shear Lashing Applications\n\n- A-frame uprights for a ridgepole\n- Extending a pole beyond its natural length\n- Stretcher side rails spliced from shorter poles\n\n## Tripod Lashing\n\nCreates a three-legged self-standing structure.\n\n- Lay three poles parallel with the middle pole head facing opposite the outer two\n- Tie a clove hitch on one outer pole\n- Wrap loosely around all three poles together: 6–8 wraps\n- Frap between each pair of poles: 2–3 turns between each gap (two frapping sequences)\n- Finish with a clove hitch on the last pole\n- Stand the tripod by splaying the legs — the lashing tightens under load\n\n## Tripod Applications\n\n- Cooking tripod over a fire\n- Hanging a water filter or bag\n- Signal platform\n- Anchor point for hauling gear\n\n## Load Testing\n\n- Always test a lashed structure before committing weight to it\n- Apply gradual load while checking for slippage at the lashing points\n- A properly built shear-lashed shelter frame will support 200+ lbs\n\n**The frapping turns do the real work — never rush or skip them.**",
+            "tags": ["lashing", "shear lashing", "tripod", "A-frame", "building"],
+            "difficulty": "Intermediate",
+            "priority": "Medium"
+          }
+        ]
+      }
+    ],
+    "articles": [
+      {
+        "id": "knots-essential",
+        "title": "10 Essential Knots",
+        "heroSymbol": "infinity",
+        "heroColor": "brown",
+        "content": "## Essential Wilderness Knots\n\n## Square Knot\n\n- Use: Joining two ropes of equal diameter\n- Right over left, then left over right\n- Easy to remember: 'right over left and under; left over right and under'\n\n## Bowline\n\n- Use: Loop that won't slip; rescue, attaching to anchors\n- 'The rabbit comes out of the hole, around the tree, and back in the hole'\n- Makes a non-tightening loop — safe for attaching around the body\n\n## Clove Hitch\n\n- Use: Quickly securing rope to a pole or branch\n- Two loops in the same direction, second loop tucked under itself\n- Good for starting lashings\n\n## Taut-Line Hitch\n\n- Use: Adjustable tent guyline, adjustable loops\n- Grips under tension, slides when released\n\n## Figure-Eight\n\n- Use: Stopper knot at end of rope; figure-eight on a bight for loops\n- Most reliable stopper knot\n\n## Half Hitch (and Two Half Hitches)\n\n- Use: Quick securing, beginning of many other knots\n- Two half hitches around a post = very secure temporary tie\n\n## Sheet Bend\n\n- Use: Joining two ropes of DIFFERENT diameters\n- Works where square knot fails\n\n## Timber Hitch\n\n- Use: Dragging logs, attaching rope to rough timber\n- Tightens as load increases\n\n## Trucker's Hitch\n\n- Use: Creating mechanical advantage to tighten lashings\n- Creates a 3:1 mechanical advantage\n\n## Prusik Hitch\n\n- Use: Ascending rope, safety on rappel\n- Small loop grips main rope under load, slides when unweighted",
+        "illustrations": [
+          {
+            "id": "square-knot-fig",
+            "symbol": "arrow.left.and.right.circle.fill",
+            "caption": "Square knot: right over left then left over right. Only use to join two ropes of equal diameter — not for safety-critical loads.",
+            "colors": ["brown", "orange"],
+            "afterHeading": "Square Knot",
+            "imageUrl": "https://source.unsplash.com/9WrOiuR8jso/800x600"
+          },
+          {
+            "id": "bowline-fig",
+            "symbol": "arrow.triangle.branch",
+            "caption": "Bowline creates a fixed, non-slip loop — safe for rescue and body attachment. Easy to untie even after heavy loading.",
+            "colors": ["brown", "teal"],
+            "afterHeading": "Bowline",
+            "imageUrl": "https://source.unsplash.com/CuDwUNemGmA/800x600"
+          },
+          {
+            "id": "clove-hitch-fig",
+            "symbol": "circle.and.line.horizontal",
+            "caption": "Clove hitch: two same-direction loops, second tucked under itself. Quick to tie on poles — good starting point for lashings.",
+            "colors": ["brown", "indigo"],
+            "afterHeading": "Clove Hitch",
+            "imageUrl": "https://source.unsplash.com/P1Qg-kJoxiU/800x600"
+          }
+        ],
+        "tags": ["knots", "bowline", "clove hitch", "square knot"],
+        "difficulty": "Intermediate",
+        "priority": "High"
+      }
+    ]
+  },
+  {
+    "id": "wildlife",
+    "title": "Wildlife & Hazards",
+    "icon": "pawprint.fill",
+    "summary": "Staying safe around dangerous animals and plants in the wilderness.",
+    "tags": ["wildlife", "bears", "snakes", "insects", "plants", "safety"],
+    "subtopics": [
+      {
+        "id": "wildlife-large-animals",
+        "title": "Large Animal Encounters",
+        "icon": "pawprint.fill",
+        "summary": "Preventing and responding to encounters with bears, mountain lions, and moose.",
+        "tags": ["bears", "mountain lion", "moose", "wildlife", "encounter"],
+        "subtopics": [],
+        "articles": [
+          {
+            "id": "wildlife-bear-safety",
+            "title": "Bear Safety",
+            "heroSymbol": "pawprint.fill",
+            "heroColor": "brown",
+            "content": "## Bear Safety\n\nMost bear encounters are preventable. The few that are not require a clear, immediate response.\n\n## Prevention\n\n- Make noise while hiking — talk, clap, or use a bear bell in dense brush\n- Never hike alone in known bear country\n- Stay on marked trails where possible — bears avoid high-traffic areas\n- Keep dogs on leash; a fleeing dog often leads a bear back to you\n\n## Food and Scent Management\n\n- Bear hang: suspend food, trash, and scented items at least 10 feet high and 4 feet from the trunk, 200 feet from camp\n- Bear canister: required in many national parks — more reliable than a hang\n- Never cook or eat in your tent\n- Change clothes worn while cooking before sleeping\n- Pack out all trash — do not bury food scraps\n\n## Encounter Response\n\n- Stay calm and do not run — running triggers a predatory chase response\n- Speak calmly in a low voice to identify yourself as human\n- Make yourself look larger: raise arms, open jacket, group together\n- Back away slowly while facing the bear — never turn your back\n\n## Bear Spray\n\n- Most effective deterrent available — more reliable than firearms in most studies\n- Effective range: 20–30 feet; deploy only when bear is within range and charging\n- Aim slightly downward to create a cloud the bear runs into\n- Keep accessible on your hip, not inside your pack\n\n## Black Bear Attack\n\n- Black bear attacks are almost always predatory — fight back aggressively\n- Target the nose and eyes\n- Do not play dead with a black bear\n\n## Grizzly/Brown Bear Attack\n\n- If a grizzly makes contact after a surprise encounter: play dead — face down, hands laced over neck, legs spread to resist being flipped\n- If a grizzly attacks in your camp at night or has been stalking you: this is predatory — fight back aggressively\n- Maintain the play-dead position until the bear has fully left the area\n\n**Know which bear species inhabit your area before you go out.**",
+            "tags": ["bears", "black bear", "grizzly", "bear spray", "food storage"],
+            "difficulty": "Intermediate",
+            "priority": "High"
+          },
+          {
+            "id": "wildlife-mountain-lion-moose",
+            "title": "Mountain Lions, Moose, and Other Large Animals",
+            "heroSymbol": "eyes",
+            "heroColor": "orange",
+            "content": "## Mountain Lions\n\nMountain lion attacks are rare but almost always predatory. The correct response is the opposite of a bear encounter.\n\n## Mountain Lion Encounter\n\n- Do not run — it activates predatory instinct\n- Face the animal and maintain eye contact\n- Make yourself appear as large as possible: raise arms, open jacket, lift children immediately\n- Speak loudly and firmly\n- Back away slowly without turning your back\n- If attacked: fight back immediately and aggressively — target eyes and nose\n- Never play dead with a mountain lion\n\n## Signs of Mountain Lion Presence\n\n- Tracks: round pad, 3–4 inches wide, no claw marks (retractable claws)\n- Cached prey: a carcass covered with debris and leaves nearby\n- Claw marks on trees at head height\n- If you find a cached kill, leave the area immediately — the lion is likely watching\n\n## Moose\n\nMoose injure more people annually in North America than bears. They are large, fast, and unpredictable.\n\n## Moose Warning Signs\n\n- Ears laid flat\n- Hair raised on neck and shoulders\n- Head lowered and swinging side to side\n- Licking lips repeatedly\n- Any of these signs: increase distance immediately — a moose charge is not a bluff\n\n## Moose Encounter\n\n- Get behind a large solid object — a tree, boulder, or vehicle\n- A moose will kick and stomp but will not chase long distances\n- If knocked down: curl into a ball, protect your head, and stay down until it stops and moves away\n- Never position yourself between a cow moose and her calf\n\n## Other Animals\n\n- **Bison:** Never approach — can run 35 mph and turn instantly; stay at least 75 feet away\n- **Elk during rut (Sept–Oct):** Bulls are aggressive; give a wide berth and do not linger near them\n- **Wild boar:** Nocturnal, poor eyesight; if encountered unexpectedly, stand still or climb a tree\n\n**Most large animal encounters end without incident if you do not run and do not approach.**",
+            "tags": ["mountain lion", "moose", "bison", "large animals", "wildlife"],
+            "difficulty": "Intermediate",
+            "priority": "High"
+          }
+        ]
+      },
+      {
+        "id": "wildlife-venomous",
+        "title": "Venomous Animals",
+        "icon": "ant.fill",
+        "summary": "Identifying and responding to bites and stings from venomous animals.",
+        "tags": ["snakes", "spiders", "scorpions", "venom", "bite"],
+        "subtopics": [],
+        "articles": [
+          {
+            "id": "wildlife-snakes",
+            "title": "Venomous Snakes",
+            "heroSymbol": "waveform.path.ecg",
+            "heroColor": "green",
+            "content": "## Venomous Snakes\n\nIn North America, venomous snakes fall into two groups: pit vipers and coral snakes.\n\n## Pit Vipers (Rattlesnakes, Copperheads, Cottonmouths)\n\n- Triangular, arrow-shaped head wider than the neck\n- Heat-sensing pit between the eye and nostril\n- Vertical, elliptical pupils\n- Rattlesnakes: rattle at tail tip — young snakes may not rattle\n- Copperhead: hourglass-shaped bands, copper-colored head\n- Cottonmouth: thick body, white inner mouth visible when threatened, found near water\n\n## Coral Snakes\n\n- Slender body, small round head, round pupils\n- Bright red, yellow, and black banding\n- North American rhyme: 'Red touches yellow, kill a fellow; red touches black, friend of Jack'\n- This rhyme does not apply outside North America — learn local species\n\n## Avoiding Snake Bites\n\n- Watch where you place hands and feet — never reach into crevices or under logs without looking first\n- Step on top of a log before stepping over it — snakes shelter on the far side\n- Wear boots and long pants in snake country\n- Most bites occur when people attempt to handle or kill a snake\n\n## If Bitten\n\n- Stay calm — elevated heart rate spreads venom faster\n- Remove rings, watches, and tight clothing near the bite before swelling begins\n- Keep the bitten limb at or below heart level\n- Note the time of the bite and mark the edge of swelling with a pen every 15 minutes to track progression\n- Move to evacuation immediately — antivenom is the only effective treatment\n- Do NOT: cut and suck, apply a tourniquet, apply ice, use a venom extractor device\n\n**Over 80% of snake bites are on hands and forearms — from people who tried to touch the snake.**",
+            "tags": ["snakes", "rattlesnake", "copperhead", "snake bite", "venom"],
+            "difficulty": "Intermediate",
+            "priority": "High"
+          },
+          {
+            "id": "wildlife-spiders-scorpions",
+            "title": "Spiders, Scorpions, and Centipedes",
+            "heroSymbol": "circle.hexagongrid.fill",
+            "heroColor": "red",
+            "content": "## Black Widow\n\n- Shiny black body with a red hourglass marking on the underside\n- Found under rocks, in woodpiles, outhouses, and dark undisturbed spaces\n- Bite often painless initially — pain develops over 30–60 minutes\n- Symptoms: spreading muscle cramps, abdominal rigidity, sweating, elevated heart rate\n- Treatment: remain calm, immobilize the limb, seek medical care — antivenom is available\n\n## Brown Recluse\n\n- Tan to dark brown body with a violin-shaped marking on the back\n- Six eyes arranged in pairs (most spiders have eight)\n- Found in dry undisturbed areas: under bark, in folded clothing, in shoes\n- Bite often painless initially — a necrotic ulcer may develop over several days\n- Treatment: clean the wound, seek medical care, monitor closely for expanding tissue damage\n\n## Prevention (Spiders and Scorpions)\n\n- Shake out clothing, shoes, and sleeping bags before putting them on — establish this as a daily habit\n- Do not place hands in crevices or under rocks without looking first\n- Check inside boots every morning in spider and scorpion country\n\n## Scorpions\n\n- Most North American scorpions produce only mild, localized symptoms\n- Exception: the Arizona bark scorpion (pale yellow, thin claws) is medically significant\n- Dangerous symptoms: numbness and tingling spreading from the sting, muscle twitching, difficulty swallowing — children are at greatest risk\n- Treatment: seek emergency care for bark scorpion stings, especially in children\n\n## Centipedes\n\n- Large centipedes (Scolopendra) deliver a painful bite — rarely dangerous in healthy adults\n- Typical symptoms: local pain, swelling, and redness\n- Clean the wound and monitor for secondary infection\n\n**Establish a shake-out routine for all gear and clothing every morning when camping in arid or warm regions.**",
+            "tags": ["spiders", "black widow", "brown recluse", "scorpion", "centipede"],
+            "difficulty": "Basic",
+            "priority": "Medium"
+          }
+        ]
+      },
+      {
+        "id": "wildlife-insects-plants",
+        "title": "Insects, Ticks, and Dangerous Plants",
+        "icon": "allergens.fill",
+        "summary": "Managing ticks, stinging insects, and toxic plant exposure.",
+        "tags": ["ticks", "insects", "poison ivy", "plants", "hazards"],
+        "subtopics": [],
+        "articles": [
+          {
+            "id": "wildlife-ticks-insects",
+            "title": "Ticks and Stinging Insects",
+            "heroSymbol": "allergens.fill",
+            "heroColor": "orange",
+            "content": "## Ticks\n\nTicks transmit Lyme disease, Rocky Mountain spotted fever, and other serious illnesses. Prevention and prompt removal limit risk significantly.\n\n## Prevention\n\n- Wear long sleeves and pants tucked into socks in tick habitat: tall grass, leaf litter, and forest edges\n- Use DEET or permethrin-treated clothing in high-risk areas\n- Walk in the center of trails — ticks climb to the tips of vegetation and wait, they do not jump or fly\n- Do a full-body tick check within 2 hours of returning from outdoors; pay attention to hairline, behind ears, armpits, and behind knees\n\n## Tick Removal\n\n- Use fine-tipped tweezers — grip the tick as close to the skin surface as possible\n- Pull upward with steady, even pressure — do not twist or jerk\n- Do not crush the tick body with your fingers\n- Clean the bite area with rubbing alcohol or soap and water after removal\n- Note the date; save the tick in a sealed bag if you want it tested later\n\n## Do NOT Do\n\n- Do not use petroleum jelly, nail polish, heat, or a lit match to remove a tick — these methods cause the tick to regurgitate into the wound, increasing disease risk\n\n## Warning Signs After a Tick Bite\n\n- An expanding ring-shaped (bull's-eye) rash around the bite site — seek medical care immediately\n- Fever, chills, or flu-like symptoms within 2–3 weeks of a bite — inform the doctor about the tick bite\n\n## Bees, Wasps, and Hornets\n\n- Remove a bee stinger immediately by scraping sideways with a fingernail or card — do not pinch and pull\n- Normal reaction: local pain, swelling, redness — treat with a cold pack and oral antihistamine\n- Anaphylaxis warning signs: hives spreading beyond the sting site, throat tightening, difficulty breathing, dizziness — use epinephrine (EpiPen) immediately and evacuate\n- If a nest is disturbed: run in a straight line away from the nest; do not swat; seek shelter indoors or in a vehicle\n\n**Carry an EpiPen if you have a known insect sting allergy — anaphylaxis can be fatal within minutes.**",
+            "tags": ["ticks", "Lyme disease", "bee sting", "anaphylaxis", "insects"],
+            "difficulty": "Basic",
+            "priority": "High"
+          },
+          {
+            "id": "wildlife-dangerous-plants",
+            "title": "Dangerous Plants",
+            "heroSymbol": "leaf.fill",
+            "heroColor": "green",
+            "content": "## Poison Ivy, Oak, and Sumac\n\nAll three produce urushiol — an oil that causes an allergic rash in roughly 85% of people.\n\n- **Poison ivy:** Three leaflets ('leaves of three, let it be'), shiny when young, white berries, grows as a ground cover or climbing vine\n- **Poison oak:** Three leaflets with rounded lobes resembling oak leaves, common on the US West Coast\n- **Poison sumac:** 7–13 leaflets on a single stem, white berries, found in wetlands\n\n## Urushiol Exposure\n\n- Rash appears 12–72 hours after contact — it is not spread by scratching, only by urushiol transfer\n- Wash exposed skin with soap and cold water within 10 minutes to significantly reduce severity\n- Wash all gear and clothing that contacted the plant\n- Never burn these plants — inhaling urushiol smoke causes severe internal airway inflammation\n- Treatment: hydrocortisone cream for mild cases; see a doctor for widespread or facial rash\n\n## Deadly Plants\n\n- **Water hemlock (Cicuta):** Most violently toxic plant in North America — resembles wild carrot, found near water, umbrella-shaped white flowers; avoid all plants in this family unless certain of identification\n- **Deadly nightshade:** Shiny black berries, purple bell-shaped flowers — small amounts are dangerous\n- **Monkshood (Aconite):** Purple hood-shaped flowers in mountain meadows — toxic through skin contact and ingestion\n- **Death camas:** Closely resembles wild onion but has no onion smell — bulb and leaves are deadly\n\n## Field Rules\n\n- Do not eat any plant with umbrella-shaped flower clusters\n- Do not eat any plant with white or yellow berries unless positively identified\n- Do not eat any plant that produces milky or discolored sap when broken\n- If uncertain, do not eat it\n\n**Urushiol remains active on unwashed gear and clothing for years — rashes from old exposure are common.**",
+            "tags": ["poison ivy", "poison oak", "hemlock", "toxic plants", "urushiol"],
+            "difficulty": "Basic",
+            "priority": "High"
+          }
+        ]
+      }
+    ],
+    "articles": []
+  },
+  {
+    "id": "weather",
+    "title": "Weather",
+    "icon": "cloud.sun.fill",
+    "summary": "Reading weather signs, staying safe in storms, and managing temperature extremes.",
+    "tags": ["weather", "storms", "lightning", "hypothermia", "heat"],
+    "subtopics": [
+      {
+        "id": "weather-reading",
+        "title": "Reading the Sky",
+        "icon": "cloud.fill",
+        "summary": "Using clouds, wind, and natural signs to predict weather changes.",
+        "tags": ["weather", "clouds", "forecasting", "natural signs"],
+        "subtopics": [],
+        "articles": [
+          {
+            "id": "weather-clouds",
+            "title": "Cloud Reading and Storm Prediction",
+            "heroSymbol": "cloud.fill",
+            "heroColor": "gray",
+            "content": "## Cloud Reading and Storm Prediction\n\nClouds are the most reliable short-range weather indicator available without instruments.\n\n## Cloud Types\n\n- **Cirrus:** Thin, wispy, high-altitude — fair weather if isolated; approaching front if increasing and thickening over hours\n- **Cumulus:** Puffy, flat-bottomed, white — fair weather when small; if they build tall through the afternoon, storms possible by evening\n- **Cumulonimbus:** Tall anvil-topped thunderhead — storm is here or arriving within the hour\n- **Stratus:** Low, grey, featureless layer — overcast and drizzle; rarely violent\n- **Altocumulus:** Mid-level rippled or wavy layer — mackerel sky; often precedes a front within 24 hours\n\n## Rapid Development Warning Signs\n\n- Cumulus clouds building rapidly upward during the morning\n- Sky darkening in the west\n- Sudden temperature drop with increasing wind\n- Distant rumbling or flashes\n- Any combination of the above: plan to be in shelter within 30 minutes\n\n## Wind Direction\n\n- In the Northern Hemisphere: wind shifting from south to west to north typically signals a clearing front\n- Wind shifting from north to east to south typically signals an approaching storm\n- A sudden gust from one direction often precedes a squall line\n\n## Barometric Pressure\n\n- Falling pressure = worsening weather\n- Rising pressure = improving conditions\n- A pressure drop of more than 3 hPa per hour is a strong storm warning — some GPS watches and altimeters include a barometer\n\n## Mountain Weather\n\n- Weather moves faster in mountains — apply a larger safety margin than the forecast suggests\n- Afternoon thunderstorms are common and predictable in mountain terrain during summer\n- Clear mornings are typical even when afternoon storms are certain — do not be misled\n\n**In the mountains, plan to be at or below treeline by noon during summer thunderstorm season.**",
+            "tags": ["clouds", "weather prediction", "storms", "cumulus", "wind"],
+            "difficulty": "Intermediate",
+            "priority": "High"
+          },
+          {
+            "id": "weather-natural-signs",
+            "title": "Natural Weather Indicators",
+            "heroSymbol": "sun.haze.fill",
+            "heroColor": "yellow",
+            "content": "## Natural Weather Indicators\n\nAnimals, plants, and atmospheric conditions all provide advance warning of weather changes.\n\n## Animal Behavior\n\n- Birds flying low or roosting early — low pressure approaching, storm likely\n- Swallows and swifts flying high — fair weather; flying low — humidity rising before rain\n- Frogs calling more loudly than usual — humidity rising, rain likely\n- Bees returning to the hive mid-afternoon on a clear day — storm may be approaching\n\n## Plant Indicators\n\n- Clover folds its leaflets before rain\n- Dandelion and daisy flowers close before rain\n- Pine cones open in dry air, close when humidity rises significantly\n\n## Atmospheric Signs\n\n- **Red sky at night:** High pressure and fair weather likely — reliable in mid-latitudes\n- **Red sky in the morning:** Moisture-laden low pressure may be approaching — warrants attention\n- **Halo around the moon or sun:** Thin cirrus clouds at altitude — a front may arrive within 24 hours\n- **Heavy dew on grass in the morning:** Clear night with high pressure — generally good weather ahead\n- **No dew when expected:** Cloud cover or wind prevented overnight cooling — conditions may be changing\n\n## Sound and Smell\n\n- Petrichor (earthy smell before rain): rising humidity causes soil bacteria to release geosmin\n- Sounds carrying farther than usual: sound travels better in high-humidity, low-pressure air\n- Campfire smoke descending to the ground rather than rising: low pressure — weather is deteriorating\n\n## Building a Weather Picture\n\n- No single indicator is reliable alone — look for multiple signs pointing the same direction\n- Increasing cloud, descending campfire smoke, low-flying insects, and rising humidity together are a strong combined signal\n- Note conditions at the same time each morning and evening to track trends over time\n\n**Local weather patterns vary by geography — learn the specific signs for the area you frequent.**",
+            "tags": ["weather signs", "animals", "plants", "natural indicators", "forecasting"],
+            "difficulty": "Basic",
+            "priority": "Medium"
+          }
+        ]
+      },
+      {
+        "id": "weather-lightning",
+        "title": "Lightning and Storms",
+        "icon": "bolt.fill",
+        "summary": "Avoiding and surviving lightning strikes and severe storm events.",
+        "tags": ["lightning", "storms", "flash flood", "thunder"],
+        "subtopics": [],
+        "articles": [
+          {
+            "id": "weather-lightning-safety",
+            "title": "Lightning Safety",
+            "heroSymbol": "bolt.fill",
+            "heroColor": "yellow",
+            "content": "## Lightning Safety\n\nLightning kills more people annually in the US than tornadoes or hurricanes. Most deaths are preventable.\n\n## The 30-30 Rule\n\n- If the time between lightning and thunder is 30 seconds or less, the storm is within 6 miles — seek shelter immediately\n- After the last lightning, wait 30 full minutes before returning to exposed terrain\n- Sound travels approximately 1 mile per 5 seconds — count the seconds between flash and thunder and divide by 5\n\n## Safe Shelter\n\n- Best: a substantial building with plumbing or electrical wiring, which grounds the structure\n- Good: a hard-topped metal vehicle with windows fully closed\n- Not safe: open shelters, picnic pavilions, isolated trees, convertibles, or any open vehicle\n\n## What to Avoid\n\n- Hilltops, ridgelines, and open summits\n- Isolated tall trees — lightning preferentially strikes the tallest nearby object\n- Open water — get off lakes and rivers immediately when a storm approaches\n- Open fields where you are the highest object\n- Shallow caves and rock overhangs — ground current can arc across the opening\n- Fences, wire, and railway tracks — conduct electricity over long distances\n\n## If Caught in the Open\n\n- Move to a low-lying area away from isolated trees\n- Spread your group out at least 50 feet apart to prevent multiple casualties from a single strike\n- Lightning crouch: feet together, squat on the balls of your feet, hands over ears, head down — do not lie flat (ground current travels along the surface)\n- Put down metal-framed packs, trekking poles, and umbrellas\n\n## After a Strike\n\n- A struck person carries no electrical charge — it is safe to touch them immediately\n- Begin CPR if there is no pulse — lightning strike survivors have a high survival rate with prompt CPR\n- Treat for burns at both the entry and exit points\n\n**In the mountains, be descending from exposed terrain before noon during summer months.**",
+            "tags": ["lightning", "thunder", "storm safety", "CPR", "mountain"],
+            "difficulty": "Basic",
+            "priority": "Critical"
+          },
+          {
+            "id": "weather-flash-flood",
+            "title": "Flash Floods and Severe Storms",
+            "heroSymbol": "cloud.heavyrain.fill",
+            "heroColor": "blue",
+            "content": "## Flash Floods\n\nFlash floods can strike a canyon or wash even when the sky above you is clear — the rain falls miles away upstream.\n\n## High-Risk Terrain\n\n- Slot canyons and narrow gorges: no escape routes, extremely rapid water rise\n- Desert washes and dry creek beds: drain vast areas of rock and hard soil with no absorption\n- River campsites during storm season: rivers can rise several feet in minutes\n- Low-water crossings during or after rain events\n\n## Warning Signs\n\n- Thunderstorms visible upstream or uphill — even storms that appear distant\n- A sudden increase in water flow volume or a color change to brown or muddy\n- A roaring or rumbling sound coming from upstream\n- Floating debris or vegetation appearing in a previously clear channel\n- Water rising while you are in the middle of a stream crossing\n\n## Response\n\n- Never camp in a wash, dry riverbed, or at a low river bank, regardless of forecast\n- If any warning sign is present: move to high ground immediately — do not wait to confirm the flood\n- If caught in a flood: move perpendicular to the current toward high ground; do not try to outrun water downstream\n- Do not attempt to cross a flowing wash on foot if water is above knee level or moving fast\n- In a vehicle: just 12 inches of moving water can sweep a car off a road — turn around, do not drive through\n\n## Tornado Warning Signs\n\n- Dark greenish sky\n- Large hail preceding or accompanying the storm\n- A continuous deep roar unlike thunder\n- A visible funnel or rotating debris cloud\n- If caught outdoors: lie flat in a low-lying ditch or depression; protect your head with both arms; stay away from trees and vehicles\n\n**Always check flood and weather forecasts before entering canyon or desert terrain, regardless of current local conditions.**",
+            "tags": ["flash flood", "flood", "tornado", "severe weather", "canyon"],
+            "difficulty": "Intermediate",
+            "priority": "Critical"
+          }
+        ]
+      },
+      {
+        "id": "weather-temperature",
+        "title": "Extreme Temperatures",
+        "icon": "thermometer.medium",
+        "summary": "Recognizing and treating hypothermia, frostbite, heat exhaustion, and heat stroke.",
+        "tags": ["hypothermia", "frostbite", "heat stroke", "temperature", "cold"],
+        "subtopics": [],
+        "articles": [
+          {
+            "id": "weather-hypothermia-frostbite",
+            "title": "Hypothermia and Frostbite",
+            "heroSymbol": "thermometer.snowflake",
+            "heroColor": "cyan",
+            "content": "## Hypothermia\n\nHypothermia occurs when core body temperature drops below 95°F (35°C). It can develop at temperatures well above freezing when wet or wind-exposed.\n\n## Risk Factors\n\n- Wet clothing — water conducts heat away from the body 25× faster than still air\n- Wind — dramatically accelerates heat loss even in mild temperatures\n- Exhaustion and dehydration — reduce the body's ability to generate and conserve heat\n- Most hypothermia deaths in North America occur between 30°F and 50°F\n\n## Stages and Signs\n\n- **Mild (95–90°F):** Shivering, impaired coordination, slurred speech, poor judgment\n- **Moderate (90–82°F):** Shivering stops, muscle rigidity, severe confusion, drowsiness\n- **Severe (below 82°F):** Unconscious, very slow or absent pulse, blue or puffy skin — person may appear dead\n\n## Treatment\n\n- Get the person out of wind, rain, and cold — remove all wet clothing\n- Insulate from the ground using sleeping pads, packs, or clothing\n- Cover the head — significant heat loss occurs through an uncovered head\n- Provide warm (not hot) sweet fluids if the person is conscious and able to swallow\n- Skin-to-skin contact inside a sleeping bag is effective for mild to moderate cases\n- Do not rub the extremities vigorously — this drives cold blood toward the core\n- Evacuate all moderate and severe cases — cardiac arrhythmia is the primary danger\n\n## Frostbite\n\nFrostbite occurs when tissue freezes — typically affects fingers, toes, nose, ears, and cheeks.\n\n- **Frostnip:** Skin white and waxy, numb but soft when pressed — rewarm with body heat (armpit or groin)\n- **Superficial frostbite:** Hard surface, soft underneath, blisters form after rewarming\n- **Deep frostbite:** Tissue hard all the way through, blue or black color\n\n## Frostbite Treatment\n\n- Do not rewarm if there is any chance of refreezing — refreezing causes far greater tissue damage than remaining frozen\n- Rewarm in water at 99–102°F until tissue becomes soft and flushed\n- Do not rub, massage, or walk on frostbitten feet\n- Protect blistered tissue and evacuate\n\n**Hypothermia impairs judgment — affected individuals often resist treatment and may attempt to remove clothing.**",
+            "tags": ["hypothermia", "frostbite", "cold", "winter", "treatment"],
+            "difficulty": "Intermediate",
+            "priority": "Critical"
+          },
+          {
+            "id": "weather-heat-illness",
+            "title": "Heat Exhaustion and Heat Stroke",
+            "heroSymbol": "thermometer.sun.fill",
+            "heroColor": "red",
+            "content": "## Heat Illness Spectrum\n\nHeat illness progresses from cramps through exhaustion to life-threatening heat stroke. Recognizing the stages early is critical.\n\n## Heat Cramps\n\n- Painful muscle spasms in legs, arms, or abdomen during or after exertion in heat\n- Caused by salt and fluid loss through heavy sweating\n- Treatment: rest in shade, drink fluids with electrolytes, gently stretch and massage the affected muscle\n\n## Heat Exhaustion\n\nThe body is struggling to cool itself but core temperature remains near normal.\n\n- Symptoms: heavy sweating, pale and clammy skin, weakness, nausea, headache, dizziness, fast weak pulse\n- Treatment:\n  - Move to shade or a cool environment immediately\n  - Lay the person down with feet slightly elevated\n  - Remove excess clothing\n  - Apply cool wet cloths to skin, especially neck, armpits, and groin\n  - Give cool water or an electrolyte drink if the person is conscious\n  - If no improvement within 15 minutes, treat as heat stroke and evacuate\n\n## Heat Stroke\n\nA life-threatening emergency — core temperature above 104°F (40°C). The body's cooling system has failed.\n\n- **Classic heat stroke:** Hot, dry, flushed skin — sweating may have stopped; common in elderly or sedentary individuals\n- **Exertional heat stroke:** May still be sweating heavily — occurs in athletes and people working hard in heat\n- Symptoms: confusion, slurred speech, loss of consciousness, seizure, rapid strong pulse\n\n## Heat Stroke Treatment\n\n- Call for emergency evacuation immediately — this is a true emergency\n- Cool aggressively while waiting — every minute of elevated temperature causes organ damage\n- Best method: immerse in cold or ice water if available\n- Otherwise: wet clothing and fan vigorously; apply ice packs to neck, armpits, and groin\n- Do not give fluids to an unconscious person\n\n## Prevention\n\n- Allow 10–14 days to acclimatize to hot conditions before intense exertion\n- Drink before you feel thirsty — 16–32 oz of water per hour during moderate exertion in heat\n- Schedule demanding activities for early morning or evening\n- Dark yellow or brown urine indicates dehydration — increase fluid intake immediately\n\n**In heat stroke, cooling is more important than evacuation — cool first, then move.**",
+            "tags": ["heat stroke", "heat exhaustion", "heat cramps", "dehydration", "summer"],
+            "difficulty": "Intermediate",
+            "priority": "Critical"
+          }
+        ]
+      }
+    ],
+    "articles": []
+  }
+]
